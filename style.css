@@ -1,0 +1,36 @@
+.ui.container {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.undertext {
+	text-align: center;
+	padding-top: 8%;
+}
+
+.undertext .scan {
+	margin: auto;
+}
+
+.bar {
+	transition-duration: 300ms;
+}
+
+.ui.table {
+	margin-left: 10%;
+	width: 80%;
+}
+
+.failed {
+	color: red;
+}
+
+.right {
+	display: inline;
+	float: right;
+	font-size: 11pt; 
+}
+
+h4 {
+	color: green;
+}
