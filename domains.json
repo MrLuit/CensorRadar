@@ -37,8 +37,8 @@
 		},
 		{
 			"title": "BuzzFeed",
-			"domain": "buzzfeed.com",
-			"img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico"
+			"domain": "~img.buzzfeed.com",
+			"img": "buzzfeed-static/static/images/error_pages/cat_standing_animated.gif"
 		},
 		{
 			"title": "CNN",
