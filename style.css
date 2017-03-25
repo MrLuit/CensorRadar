@@ -1,36 +1,53 @@
-.ui.container {
-  padding-top: 5%;
-  text-align: center;
+.ui.container.site {
+    padding-top: 5%;
+    text-align: center;
 }
-
 .undertext {
-	text-align: center;
-	padding-top: 8%;
+    text-align: center;
+    padding-top: 8%;
 }
-
 .undertext .scan {
-	margin: auto;
+    margin: auto;
 }
-
 .bar {
-	transition-duration: 300ms;
+    transition-duration: 300ms;
 }
-
 .ui.table {
-	margin-left: 10%;
-	width: 80%;
+    margin-left: 10%;
+    width: 80%;
 }
-
 .failed {
-	color: red;
+    color: red;
 }
-
 .right {
-	display: inline;
-	float: right;
-	font-size: 11pt; 
+    display: inline;
+    float: right;
+    font-size: 11pt;
 }
-
 h4 {
-	color: green;
+    color: green;
+}
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+@keyframes octocat-wave {
+    0%, 100% {
+        transform: rotate(0)
+    }
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+@media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
 }
