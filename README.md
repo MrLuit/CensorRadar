@@ -1,5 +1,5 @@
 # CensorRadar
-[![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) [![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg)](https://github.com/MrLuit/CensorRadar/releases) [![downloads](https://img.shields.io/github/downloads/MrLuit/CensorRadar/total.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/traffic) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
+[![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) [![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg?style=flat-square&colorB=E67233)](https://github.com/MrLuit/CensorRadar/releases) [![downloads](https://img.shields.io/github/downloads/MrLuit/CensorRadar/total.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/traffic) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
 
 This repository is the open-source project for a website that scans your local network for any blocked websites.
 
