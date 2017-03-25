@@ -8,7 +8,14 @@ This repository is the open-source project for a website that scans your local n
 Go to the website and click 'Start scan'. You will see all blocked domains (if there are any).
 
 # How does it work
+
 Javascript creates a new image with an image on the domain we want to check as source. This will prevent [CORS errors](https://enable-cors.org/) and works without too much trouble for the user. A disadvantage is that most popular domains host images on a different server and therefore it's hard to check if the domain is blocked or the image server of the domain.
+
+# Libraries
+
+- [jQuery 3.2.0](https://github.com/jquery/jquery/tree/3.2.0)
+- [Semantic-UI 2.2.9](https://github.com/Semantic-Org/Semantic-UI/tree/2.2.9)
+- [SweetAlert2 6.4.4](https://github.com/limonte/sweetalert2/tree/v6.4.4)
 
 # Contributing
 
