@@ -1,29 +1,14 @@
 {
 	"domains": [
 		{
-			"title": "Google",
-			"domain": "google.com",
-			"img": "images/branding/product/ico/googleg_lodp.ico"
-		},
-		{
-			"title": "Youtube",
-			"domain": "youtube.com",
-			"img": "yts/img/favicon_48-vfl1s0rGh.png"
-		},
-		{
-			"title": "Reddit",
-			"domain": "redditstatic.com",
-			"img": "icon.png"
-		},
-		{
 			"title": "Github",
 			"domain": "github.com",
 			"img": "fluidicon.png"
 		},
 		{
-			"title": "Netflix",
-			"domain": "~secure.netflix.com",
-			"img": "ffe/profiles/avatars_v2/320x320/PICON_001.png"
+			"title": "Google",
+			"domain": "google.com",
+			"img": "images/branding/product/ico/googleg_lodp.ico"
 		},
 		{
 			"title": "Instagram",
@@ -31,9 +16,19 @@
 			"img": "static/images/ico/favicon-192.png/b407fa101800.png"
 		},
 		{
-			"title": "Twitter",
-			"domain": "~abs.twimg.com",
-			"img": "favicons/favicon.ico"
+			"title": "LinkedIn",
+			"domain": "~static.licdn.com",
+			"img": "scds/common/u/images/logos/favicons/v1/favicon.ico"
+		},
+		{
+			"title": "Netflix",
+			"domain": "~secure.netflix.com",
+			"img": "ffe/profiles/avatars_v2/320x320/PICON_001.png"
+		},
+		{
+			"title": "Reddit",
+			"domain": "redditstatic.com",
+			"img": "icon.png"
 		},
 		{
 			"title": "Snapchat",
@@ -46,19 +41,29 @@
 			"img": "favicon.ico"
 		},
 		{
-			"title": "LinkedIn",
-			"domain": "~static.licdn.com",
-			"img": "scds/common/u/images/logos/favicons/v1/favicon.ico"
-		},
-		{
 			"title": "Tumblr",
 			"domain": "~assets.tumblr.com",
 			"img": "images/favicons/favicon.ico"
 		},
 		{
+			"title": "Twitter",
+			"domain": "~abs.twimg.com",
+			"img": "favicons/favicon.ico"
+		},
+		{
 			"title": "Whatsapp",
 			"domain": "whatsapp.com",
 			"img": "favicon.png"
-		}
+		},
+		{
+			"title": "Wikipedia",
+			"domain": "wikipedia.org",
+			"img": "static/apple-touch/wikipedia.png"
+		},
+		{
+			"title": "Youtube",
+			"domain": "youtube.com",
+			"img": "yts/img/favicon_48-vfl1s0rGh.png"
+		},
 	]
 }
