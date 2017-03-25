@@ -37,8 +37,8 @@
 		},
 		{
 			"title": "BuzzFeed",
-			"domain": "~img.buzzfeed.com",
-			"img": "buzzfeed-static/static/images/error_pages/cat_standing_animated.gif"
+			"domain": "buzzfeed.com",
+			"img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico"
 		},
 		{
 			"title": "CNN",
@@ -158,7 +158,7 @@
 		{
 			"title": "Pushbullet",
 			"domain": "pushbullet.com",
-			"img": "favicon.ico"
+			"img": "img/header/logo.png"
 		},
 		{
 			"title": "Reddit",
@@ -177,8 +177,8 @@
 		},
 		{
 			"title": "Soundcloud",
-			"domain": "soundcloud.com",
-			"img": "favicon.ico"
+			"domain": "~m.soundcloud.com",
+			"img": "assets/images/sc-icons/favicon-9c79c761.ico"
 		},
 		{
 			"title": "Stack Overflow",
