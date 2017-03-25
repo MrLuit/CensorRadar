@@ -1,5 +1,5 @@
-# Censorship
-This repository is the open-source project for a website that scans your local network for any censorship.
+# Censorradar
+This repository is the open-source project for a website that scans your local network for any blocked websites.
 
 # How to use
 Go to the website and click 'Start scan'. You will see all blocked domains (if there are any).
@@ -15,4 +15,4 @@ When adding a new domain to domains.json, it must meet the following requirement
 - When using a subdomain like 'assets.github.com', put a ~ before the domain so the parser recognizes it's a subdomain and doesn't put www. in front of it
 
 # Report issue
-Create an [issue](https://github.com/MrLuit/Censorship/issues) or a [pull request](https://github.com/MrLuit/Censorship/pulls).
+Create an [issue](https://github.com/MrLuit/CensorRadar/issues) or a [pull request](https://github.com/MrLuit/CensorRadar/pulls).

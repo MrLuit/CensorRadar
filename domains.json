@@ -49,11 +49,6 @@
 		"img": "scds/common/u/images/logos/favicons/v1/favicon.ico"
 	},
 	{
-		"title": "Pinterest",
-		"domain": "~s.pinimg.com",
-		"img": "webapp/style/app/common/images/favicon-57a225b2.png"
-	},
-	{
 		"title": "Tumblr",
 		"domain": "~assets.tumblr.com",
 		"img": "images/favicons/favicon.ico"
