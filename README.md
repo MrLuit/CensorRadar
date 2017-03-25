@@ -5,11 +5,11 @@ This repository is the open-source project for a website that scans your local n
 
 # How to use
 
-Go to the website and click 'Start scan'. You will see all blocked domains (if there are any).
+Go to the website and click 'Start scan'. You will see all blocked domains (if there are any). If a website is blocked, you can click the little info icon to find the full path that the client couldn't access. The image is path is helpful for troubleshooting why the request can't reach the server.
 
 # How does it work
 
-Javascript creates a new image with an image on the domain we want to check as source. This will prevent [CORS errors](https://enable-cors.org/) and works without too much trouble for the user. A disadvantage is that most popular domains host images on a different server and therefore it's hard to check if the domain is blocked or the image server of the domain.
+Javascript creates a new image with an image on the domain we want to check as source. This will prevent [CORS errors](https://enable-cors.org/) and works without too much trouble for the user. A disadvantage is that some popular domains host images on a different server and therefore it's hard to check if the domain is blocked or the image server of the domain. To solve this we try to request favicon.ico from the primary server and that works in most cases because even in the worst scenario the server would probably still redirect you to the right favicon URL.
 
 # Libraries
 
@@ -22,11 +22,14 @@ Javascript creates a new image with an image on the domain we want to check as s
 When adding a new domain to domains.json, it must meet the following requirements:
 - The domain must be a popular domain and must get traffic from all around the world (no country-specific domains)
 - The title should be a simple title that matches the website
+- Don't put http:// or https:// in the domain and *only* put the path to the image in img without leading '/'
 - The domain must not be already present in domains.json
 - Make sure that domains.json is correctly alphabetically sorted
-- Make sure the image provided is accessible from not only your computer
+- Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website
 - When using a subdomain like 'assets.github.com', put a ~ before the domain so the parser recognizes it's a subdomain and doesn't put www. in front of it
+
+You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls) with all these requirements.
 
 # Report issue
 
-Create an [issue](https://github.com/MrLuit/CensorRadar/issues) or a [pull request](https://github.com/MrLuit/CensorRadar/pulls).
+Create an [issue](https://github.com/MrLuit/CensorRadar/issues) with as many details as possible regarding the problem. Useful information could be the image URL, your OS, your browser, your ISP or country, and steps to reproduce the issue.
