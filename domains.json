@@ -1,14 +1,49 @@
 {
 	"domains": [
 		{
+			"title": "4chan",
+			"domain": "4chan.org",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Amazon",
+			"domain": "amazon.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Apple",
+			"domain": "apple.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Bing",
+			"domain": "bing.com",
+			"img": "s/a/hpc20.png"
+		},
+		{
+			"title": "Discord",
+			"domain": "discordapp.com",
+			"img": "assets/07dca80a102d4149e9736d4b162cff6f.ico"
+		},
+		{
+			"title": "Ebay",
+			"domain": "ebay.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Github",
 			"domain": "github.com",
-			"img": "fluidicon.png"
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Google",
 			"domain": "google.com",
-			"img": "images/branding/product/ico/googleg_lodp.ico"
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Imgur",
+			"domain": "imgur.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Instagram",
@@ -21,9 +56,29 @@
 			"img": "scds/common/u/images/logos/favicons/v1/favicon.ico"
 		},
 		{
+			"title": "Live",
+			"domain": "live.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Messenger",
+			"domain": "messenger.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Microsoft",
+			"domain": "microsoft.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Netflix",
-			"domain": "~secure.netflix.com",
-			"img": "ffe/profiles/avatars_v2/320x320/PICON_001.png"
+			"domain": "netflix.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Pinterest",
+			"domain": "~s.pinimg.com",
+			"img": "webapp/style/app/common/images/logo_trans_144x144-642179a1.png"
 		},
 		{
 			"title": "Reddit",
@@ -31,8 +86,23 @@
 			"img": "icon.png"
 		},
 		{
+			"title": "Skype",
+			"domain": "~secure.skypeassets.com",
+			"img": "i/common/images/icons/favicon.ico"
+		},
+		{
 			"title": "Snapchat",
 			"domain": "snapchat.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Soundcloud",
+			"domain": "~a-v2.sndcdn.com",
+			"img": "assets/images/sc-icons/favicon-2cadd14b.ico"
+		},
+		{
+			"title": "Steam",
+			"domain": "~store.steampowered.com",
 			"img": "favicon.ico"
 		},
 		{
@@ -44,6 +114,11 @@
 			"title": "Tumblr",
 			"domain": "~assets.tumblr.com",
 			"img": "images/favicons/favicon.ico"
+		},
+		{
+			"title": "Twitch",
+			"domain": "twitch.tv",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Twitter",
@@ -58,12 +133,17 @@
 		{
 			"title": "Wikipedia",
 			"domain": "wikipedia.org",
-			"img": "static/apple-touch/wikipedia.png"
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Yahoo",
+			"domain": "yahoo.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Youtube",
 			"domain": "youtube.com",
-			"img": "yts/img/favicon_48-vfl1s0rGh.png"
+			"img": "favicon.ico"
 		}
 	]
 }

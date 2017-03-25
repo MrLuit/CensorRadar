@@ -17,6 +17,7 @@ When adding a new domain to domains.json, it must meet the following requirement
 - The title should be a simple title that matches the website
 - The domain must not be already present in domains.json
 - Make sure that domains.json is correctly alphabetically sorted
+- Make sure the image provided is accessible from not only your computer
 - When using a subdomain like 'assets.github.com', put a ~ before the domain so the parser recognizes it's a subdomain and doesn't put www. in front of it
 
 # Report issue
