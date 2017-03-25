@@ -63,9 +63,9 @@ $(document).ready(function() {
                     }
                 };
                 if (data.domain.match("^~")) {
-                    image.src = '//' + data.domain.replace("~", "") + '/' + data.img;
+                    image.src = 'http://' + data.domain.replace("~", "") + '/' + data.img;
                 } else {
-                    image.src = '//www.' + data.domain + '/' + data.img;
+                    image.src = 'http://www.' + data.domain + '/' + data.img;
                 }
             });
         });

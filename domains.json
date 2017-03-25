@@ -6,6 +6,11 @@
 			"img": "favicon.ico"
 		},
 		{
+			"title": "9gag",
+			"domain": "9gag.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Amazon",
 			"domain": "amazon.com",
 			"img": "favicon.ico"
@@ -16,9 +21,39 @@
 			"img": "favicon.ico"
 		},
 		{
+			"title": "Baidu",
+			"domain": "amazon.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "BBC",
+			"domain": "bbc.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Bing",
 			"domain": "bing.com",
-			"img": "s/a/hpc20.png"
+			"img": "favicon.ico"
+		},
+		{
+			"title": "BuzzFeed",
+			"domain": "buzzfeed.com",
+			"img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico"
+		},
+		{
+			"title": "CNN",
+			"domain": "cnn.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Comedy Central",
+			"domain": "cc.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Daily Mail",
+			"domain": "dailymail.co.uk",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Discord",
@@ -41,6 +76,11 @@
 			"img": "favicon.ico"
 		},
 		{
+			"title": "IGN",
+			"domain": "ign.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Imgur",
 			"domain": "imgur.com",
 			"img": "favicon.ico"
@@ -52,12 +92,17 @@
 		},
 		{
 			"title": "LinkedIn",
-			"domain": "~static.licdn.com",
-			"img": "scds/common/u/images/logos/favicons/v1/favicon.ico"
+			"domain": "linkedin.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Live",
 			"domain": "live.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Mashable",
+			"domain": "mashable.com",
 			"img": "favicon.ico"
 		},
 		{
@@ -71,14 +116,49 @@
 			"img": "favicon.ico"
 		},
 		{
+			"title": "MTV",
+			"domain": "mtv.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "MSN",
+			"domain": "msn.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "National Geographic",
+			"domain": "nationalgeographic.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Netflix",
 			"domain": "netflix.com",
 			"img": "favicon.ico"
 		},
 		{
+			"title": "New York Times",
+			"domain": "nytimes.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Paypal",
+			"domain": "paypal.com",
+			"img": "favicon.ico"
+		},
+		{
 			"title": "Pinterest",
-			"domain": "~s.pinimg.com",
-			"img": "webapp/style/app/common/images/logo_trans_144x144-642179a1.png"
+			"domain": "pinterest.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Pornhub",
+			"domain": "pornhub.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Pushbullet",
+			"domain": "pushbullet.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Reddit",
@@ -87,8 +167,8 @@
 		},
 		{
 			"title": "Skype",
-			"domain": "~secure.skypeassets.com",
-			"img": "i/common/images/icons/favicon.ico"
+			"domain": "skype.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Snapchat",
@@ -97,12 +177,17 @@
 		},
 		{
 			"title": "Soundcloud",
-			"domain": "~a-v2.sndcdn.com",
-			"img": "assets/images/sc-icons/favicon-2cadd14b.ico"
+			"domain": "soundcloud.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Stack Overflow",
+			"domain": "stackoverflow.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Steam",
-			"domain": "~store.steampowered.com",
+			"domain": "steampowered.com",
 			"img": "favicon.ico"
 		},
 		{
@@ -112,8 +197,8 @@
 		},
 		{
 			"title": "Tumblr",
-			"domain": "~assets.tumblr.com",
-			"img": "images/favicons/favicon.ico"
+			"domain": "tumblr.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Twitch",
@@ -122,8 +207,13 @@
 		},
 		{
 			"title": "Twitter",
-			"domain": "~abs.twimg.com",
-			"img": "favicons/favicon.ico"
+			"domain": "twitter.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "VK",
+			"domain": "vk.com",
+			"img": "favicon.ico"
 		},
 		{
 			"title": "Whatsapp",
@@ -138,6 +228,11 @@
 		{
 			"title": "Yahoo",
 			"domain": "yahoo.com",
+			"img": "favicon.ico"
+		},
+		{
+			"title": "Yandex",
+			"domain": "yandex.com",
 			"img": "favicon.ico"
 		},
 		{
