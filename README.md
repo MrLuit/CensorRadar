@@ -18,6 +18,10 @@ Javascript creates a new image with an image on the domain we want to check as s
 * [SweetAlert2 6.4.4](https://github.com/limonte/sweetalert2/tree/v6.4.4)
 * [Github Corners](https://github.com/tholman/github-corners)
 
+## API
+
+Making an official API on Github Pages is hard because this project is written in Javascript and a simple curl request can't render Javascript. A solution would be to create your own project using the data from this repository. If you make your program fetch data from https://raw.githubusercontent.com/MrLuit/CensorRadar/master/domains.json (we will try to keep this list updated) you can use the data to ping all the websites on the list. Let me know about projects you've created :)
+
 ## Contributing
 
 When adding a new domain to domains.json, it must meet the following requirements:
