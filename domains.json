@@ -1,244 +1,334 @@
 {
-	"domains": [
-		{
-			"title": "4chan",
-			"domain": "4chan.org",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "9gag",
-			"domain": "9gag.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Amazon",
-			"domain": "amazon.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Apple",
-			"domain": "apple.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Baidu",
-			"domain": "amazon.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "BBC",
-			"domain": "bbc.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Bing",
-			"domain": "bing.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "BuzzFeed",
-			"domain": "buzzfeed.com",
-			"img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico"
-		},
-		{
-			"title": "CNN",
-			"domain": "cnn.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Comedy Central",
-			"domain": "cc.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Daily Mail",
-			"domain": "dailymail.co.uk",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Discord",
-			"domain": "discordapp.com",
-			"img": "assets/07dca80a102d4149e9736d4b162cff6f.ico"
-		},
-		{
-			"title": "Ebay",
-			"domain": "ebay.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Github",
-			"domain": "github.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Google",
-			"domain": "google.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "IGN",
-			"domain": "ign.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Imgur",
-			"domain": "imgur.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Instagram",
-			"domain": "instagram.com",
-			"img": "static/images/ico/favicon-192.png/b407fa101800.png"
-		},
-		{
-			"title": "LinkedIn",
-			"domain": "linkedin.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Live",
-			"domain": "live.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Mashable",
-			"domain": "mashable.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Messenger",
-			"domain": "messenger.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Microsoft",
-			"domain": "microsoft.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "MTV",
-			"domain": "mtv.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "MSN",
-			"domain": "msn.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "National Geographic",
-			"domain": "nationalgeographic.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Netflix",
-			"domain": "netflix.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "New York Times",
-			"domain": "nytimes.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Paypal",
-			"domain": "paypal.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Pinterest",
-			"domain": "pinterest.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Pornhub",
-			"domain": "pornhub.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Pushbullet",
-			"domain": "pushbullet.com",
-			"img": "img/header/logo.png"
-		},
-		{
-			"title": "Reddit",
-			"domain": "redditstatic.com",
-			"img": "icon.png"
-		},
-		{
-			"title": "Skype",
-			"domain": "skype.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Snapchat",
-			"domain": "snapchat.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Soundcloud",
-			"domain": "~m.soundcloud.com",
-			"img": "assets/images/sc-icons/favicon-9c79c761.ico"
-		},
-		{
-			"title": "Stack Overflow",
-			"domain": "stackoverflow.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Steam",
-			"domain": "steampowered.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Telegram",
-			"domain": "telegram.org",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Tumblr",
-			"domain": "tumblr.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Twitch",
-			"domain": "twitch.tv",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Twitter",
-			"domain": "twitter.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "VK",
-			"domain": "vk.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Whatsapp",
-			"domain": "whatsapp.com",
-			"img": "favicon.png"
-		},
-		{
-			"title": "Wikipedia",
-			"domain": "wikipedia.org",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Yahoo",
-			"domain": "yahoo.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Yandex",
-			"domain": "yandex.com",
-			"img": "favicon.ico"
-		},
-		{
-			"title": "Youtube",
-			"domain": "youtube.com",
-			"img": "favicon.ico"
-		}
-	]
+    "domains": [
+        {
+            "title": "4chan",
+            "domain": "4chan.org",
+            "img": "favicon.ico",
+            "hash": "282c9d81853b256135c67793a52a62dfd7021055"
+        },
+        {
+            "title": "9gag",
+            "domain": "9gag.com",
+            "img": "favicon.ico",
+            "hash": "0283dbf9e9c03bcb4ab7cde22b12dcf13f0dacbb"
+        },
+        {
+            "title": "Amazon",
+            "domain": "amazon.com",
+            "img": "favicon.ico",
+            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
+        },
+        {
+            "title": "Apple",
+            "domain": "apple.com",
+            "img": "favicon.ico",
+            "hash": "6164148a39d6a27286641896fce3b76f439aeab1"
+        },
+        {
+            "title": "Baidu",
+            "domain": "amazon.com",
+            "img": "favicon.ico",
+            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
+        },
+        {
+            "title": "BBC",
+            "domain": "bbc.com",
+            "img": "favicon.ico",
+            "hash": "b24e4cf7bfeb1306dfd5d61abb8cd61c2d936ef2"
+        },
+        {
+            "title": "Bing",
+            "domain": "bing.com",
+            "img": "favicon.ico",
+            "hash": "96607ba47296757df3a005614947a5e83ba8683d"
+        },
+        {
+            "title": "BuzzFeed",
+            "domain": "buzzfeed.com",
+            "img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico",
+            "hash": "986a86948c98b827443724b71e0f3770e76d9be3"
+        },
+        {
+            "title": "CNN",
+            "domain": "cnn.com",
+            "img": "favicon.ico",
+            "hash": "7d7925b6b1e80934c87f5e9a20de644d1378d32d"
+        },
+        {
+            "title": "Comedy Central",
+            "domain": "cc.com",
+            "img": "favicon.ico",
+            "hash": "4849d0140d90b8767b1983dc69d4fa3c68ef9c41"
+        },
+        {
+            "title": "Daily Mail",
+            "domain": "dailymail.co.uk",
+            "img": "favicon.ico",
+            "hash": "03117e941e6b9a1fed4eddd76f86a74f56055d8f"
+        },
+        {
+            "title": "Discord",
+            "domain": "discordapp.com",
+            "img": "assets/07dca80a102d4149e9736d4b162cff6f.ico",
+            "hash": "1af3759a49bc1dcf17a8b0a305d5ccbee17d0944"
+        },
+        {
+            "title": "Ebay",
+            "domain": "ebay.com",
+            "img": "favicon.ico",
+            "hash": "c3deb101bd4d4cc2d67b0d52d57b0bf0f8336c63"
+        },
+        {
+            "title": "Github",
+            "domain": "github.com",
+            "img": "favicon.ico",
+            "hash": "4eda7c0f3a36181f483dd0a14efe9f58c8b29814"
+        },
+        {
+            "title": "Google",
+            "domain": "google.com",
+            "img": "favicon.ico",
+            "hash": "49263695f6b0cdd72f45cf1b775e660fdc36c606"
+        },
+        {
+            "title": "IGN",
+            "domain": "ign.com",
+            "img": "favicon.ico",
+            "hash": "9df6b7d04d54674fc25491f3536759769137c821"
+        },
+        {
+            "title": "Imgur",
+            "domain": "imgur.com",
+            "img": "favicon.ico",
+            "hash": "9be43a87080a60971f894c9f27eb61ee22a09f1c"
+        },
+        {
+            "title": "Instagram",
+            "domain": "instagram.com",
+            "img": "static/images/ico/favicon-192.png/b407fa101800.png",
+            "hash": "18fea4ad0371ed6cd21007f24a47812ba09b8fa1"
+        },
+        {
+            "title": "LinkedIn",
+            "domain": "linkedin.com",
+            "img": "favicon.ico",
+            "hash": "70f5157a8a4dc5a924abad83309d2859cf241ef6"
+        },
+        {
+            "title": "Live",
+            "domain": "live.com",
+            "img": "favicon.ico",
+            "hash": "81a4e3f87ad5ac6f50bfcd1f0117c9320817dc9f"
+        },
+        {
+            "title": "Liveleak",
+            "domain": "liveleak.com",
+            "img": "favicon.ico",
+            "hash": "91fb1e8cf260e6807533600e1c7a0f5f80dccd48"
+        },
+        {
+            "title": "Mashable",
+            "domain": "mashable.com",
+            "img": "favicon.ico",
+            "hash": "5f9866bd22cf9bfad1b9c5e7d41017b241a66c9a"
+        },
+        {
+            "title": "Messenger",
+            "domain": "messenger.com",
+            "img": "favicon.ico",
+            "hash": "f93262e997539b566510ff749c97ca8a4768d8c9"
+        },
+        {
+            "title": "Microsoft",
+            "domain": "microsoft.com",
+            "img": "favicon.ico",
+            "hash": "e08ce1a144eceae0c3c2ea7a9d6fbc5658f24ce5"
+        },
+        {
+            "title": "Mozilla",
+            "domain": "mozilla.com",
+            "img": "favicon.ico",
+            "hash": "6bcb460bf314e1a5a74c8cd37a2c10526f8b133b"
+        },
+        {
+            "title": "MTV",
+            "domain": "mtv.com",
+            "img": "favicon.ico",
+            "hash": "d737ffd014488c602060b2622d18b4a0f32f02b7"
+        },
+        {
+            "title": "MSN",
+            "domain": "msn.com",
+            "img": "favicon.ico",
+            "hash": "00e2461bcd67d7ba511db230415000aefbd30d2d"
+        },
+        {
+            "title": "National Geographic",
+            "domain": "nationalgeographic.com",
+            "img": "favicon.ico",
+            "hash": "d5f53b2fe318edbb2fde93d01b39ad3d357ed846"
+        },
+        {
+            "title": "Netflix",
+            "domain": "netflix.com",
+            "img": "favicon.ico",
+            "hash": "931e18dfc6e7d950dc2f2bbdfe31e1ea720acf7c"
+        },
+        {
+            "title": "New York Times",
+            "domain": "nytimes.com",
+            "img": "favicon.ico",
+            "hash": "1965f56573cfa15ed817f84bf2248be1e2feee32"
+        },
+        {
+            "title": "Opera",
+            "domain": "opera.com",
+            "img": "favicon.ico",
+            "hash": "1fcfa5ac09b8355ccae4ae404b783e1208eddf3f"
+        },
+        {
+            "title": "Pandora",
+            "domain": "pandora.com",
+            "img": "favicon.ico",
+            "hash": "32a90fde15b206cec5a4d7f2db368fa000bb4d27"
+        },
+        {
+            "title": "Paypal",
+            "domain": "paypal.com",
+            "img": "favicon.ico",
+            "hash": "ff60afd001e924511e9b6f12c57b6bf26821fc1e"
+        },
+        {
+            "title": "Pinterest",
+            "domain": "pinterest.com",
+            "img": "favicon.ico",
+            "hash": "1eba0b461d1305db763eb7e0383988dddcead980"
+        },
+        {
+            "title": "Piratebay",
+            "domain": "thepiratebay.org",
+            "img": "favicon.ico",
+            "hash": "fc0e3d17c0d17865a24f3bbb3afd8a1ed0bbea83"
+        },
+        {
+            "title": "Pornhub",
+            "domain": "pornhub.com",
+            "img": "favicon.ico",
+            "hash": "7430ff53470894ca5d22d074c1569efc3b72b95d"
+        },
+        {
+            "title": "Pushbullet",
+            "domain": "pushbullet.com",
+            "img": "img/header/logo.png",
+            "hash": "61a2de868815b932f081253da21895bc62a41eca"
+        },
+        {
+            "title": "Reddit",
+            "domain": "redditstatic.com",
+            "img": "icon.png",
+            "hash": "1bddd29b24acde7144bb7d3dd81afafe0e8595f5"
+        },
+        {
+            "title": "Skype",
+            "domain": "skype.com",
+            "img": "favicon.ico",
+            "hash": "16092acff29e52a9b1d221e71080ed542675878c"
+        },
+        {
+            "title": "Snapchat",
+            "domain": "snapchat.com",
+            "img": "favicon.ico",
+            "hash": "3536d48359166e005e16c5463f987097e369bb5a"
+        },
+        {
+            "title": "Soundcloud",
+            "domain": "~m.soundcloud.com",
+            "img": "assets/images/sc-icons/favicon-9c79c761.ico",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
+            "title": "Stack Overflow",
+            "domain": "stackoverflow.com",
+            "img": "favicon.ico",
+            "hash": "4f32ecc8f43d0986b9c6ce9f37999e86c0b829ef"
+        },
+        {
+            "title": "Steam",
+            "domain": "steampowered.com",
+            "img": "favicon.ico",
+            "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+        },
+        {
+            "title": "Steam Community",
+            "domain": "steamcommunity.com",
+            "img": "favicon.ico",
+            "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+        },
+        {
+            "title": "Telegram",
+            "domain": "telegram.org",
+            "img": "favicon.ico",
+            "hash": "a5b2c928a64ea5240ec2ea18c5ba0b2ffad09910"
+        },
+        {
+            "title": "Tumblr",
+            "domain": "tumblr.com",
+            "img": "favicon.ico",
+            "hash": "3bb43725db15ab14ba1fad3a78969b016c179b6a"
+        },
+        {
+            "title": "Twitch",
+            "domain": "twitch.tv",
+            "img": "favicon.ico",
+            "hash": "5400ffdd97dc61d03b8a5939286db0da4d328a97"
+        },
+        {
+            "title": "Twitter",
+            "domain": "twitter.com",
+            "img": "favicon.ico",
+            "hash": "eee14e8a36b0512c12ba26c0516b4553618dea36"
+        },
+        {
+            "title": "VK",
+            "domain": "vk.com",
+            "img": "favicon.ico",
+            "hash": "61a7848bb12959b841105da1685888d48cbb072d"
+        },
+        {
+            "title": "Whatsapp",
+            "domain": "whatsapp.com",
+            "img": "favicon.png",
+            "hash": "f72bf6750892a25cc40b590bafb2038109bd77ad"
+        },
+        {
+            "title": "Wikileaks",
+            "domain": "wikileaks.org",
+            "img": "IMG/favicon.ico",
+            "hash": "7b03e69ff5976a991347fa0eb25c7493d5688054"
+        },
+        {
+            "title": "Wikipedia",
+            "domain": "wikipedia.org",
+            "img": "favicon.ico",
+            "hash": "b37ac89616b9e4c01a35991af59fe6b63e41a48e"
+        },
+        {
+            "title": "Yahoo",
+            "domain": "yahoo.com",
+            "img": "favicon.ico",
+            "hash": "6ee48a6f912384d8f9cce8bf7931bed779dc1d9d"
+        },
+        {
+            "title": "Yandex",
+            "domain": "yandex.com",
+            "img": "favicon.ico",
+            "hash": "ac14e377a50e3e4e7dd773929f96505583134164"
+        },
+        {
+            "title": "Youtube",
+            "domain": "youtube.com",
+            "img": "favicon.ico",
+            "hash": "0f926f925453097124dbb534296c1958937de453"
+        }
+    ]
 }
