@@ -1,4 +1,3 @@
-
 {
     "domains": [
         {
@@ -8,10 +7,22 @@
             "hash": "282c9d81853b256135c67793a52a62dfd7021055"
         },
         {
+            "title": "4shared",
+            "domain": "4shared.com",
+            "img": "favicon.ico",
+            "hash": "5140f1662c47c393b276e656d35c5c45408b7128"
+        },
+        {
             "title": "9gag",
             "domain": "9gag.com",
             "img": "favicon.ico",
             "hash": "0283dbf9e9c03bcb4ab7cde22b12dcf13f0dacbb"
+        },
+        {
+            "title": "AOL",
+            "domain": "aol.com",
+            "img": "favicon.ico",
+            "hash": "81d03c69a59fc76962fb939764df8c897b6baefb"
         },
         {
             "title": "Adf.ly",
@@ -24,6 +35,12 @@
             "domain": "adobe.com",
             "img": "favicon.ico",
             "hash": "1151bcc6656a2cd4c45376e14afea3ce622fa8e3"
+        },
+        {
+            "title": "AliExpress",
+            "domain": "aliexpress.com",
+            "img": "favicon.ico",
+            "hash": "2569b0965fb8f311fd546f9de81548bb2cc1d7af"
         },
         {
             "title": "Amazon",
@@ -56,6 +73,12 @@
             "hash": "96607ba47296757df3a005614947a5e83ba8683d"
         },
         {
+            "title": "Bitbucket",
+            "domain": "bitbucket.org",
+            "img": "favicon.ico",
+            "hash": "c2fc0eb6ae4cd21495989c51e5f36b685991dee6"
+        },
+        {
             "title": "Bitly",
             "domain": "bit.ly",
             "img": "favicon.ico",
@@ -68,9 +91,15 @@
             "hash": "30ef5c54b8bbc3487ea2b4c45cd11ea2932e4340"
         },
         {
+            "title": "Booking",
+            "domain": "booking.com",
+            "img": "favicon.ico",
+            "hash": "645dce7842fa7483bb676def6df255317f203f22"
+        },
+        {
             "title": "BuzzFeed",
             "domain": "buzzfeed.com",
-            "img": "static-assets/img/favicon.5a0c77a8815cfcc67c710199054a55c6.ico",
+            "img": "static-assets/img/favicon.ico",
             "hash": "986a86948c98b827443724b71e0f3770e76d9be3"
         },
         {
@@ -98,6 +127,18 @@
             "hash": "03117e941e6b9a1fed4eddd76f86a74f56055d8f"
         },
         {
+            "title": "Dailymotion",
+            "domain": "~static1.dmcdn.net",
+            "img": "images/favicons/favicon-32x32.png",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
+            "title": "Dell",
+            "domain": "dell.com",
+            "img": "favicon.ico",
+            "hash": "dd0ebcd1220a1049f62ca143c124e29711087681"
+        },
+        {
             "title": "Deviantart",
             "domain": "deviantart.com",
             "img": "favicon.ico",
@@ -116,6 +157,12 @@
             "hash": "c3deb101bd4d4cc2d67b0d52d57b0bf0f8336c63"
         },
         {
+            "title": "Electronic Arts",
+            "domain": "ea.com",
+            "img": "favicon.ico",
+            "hash": "42ba9aa95cd36b6d5b343334053bb116d8aea856"
+        },
+        {
             "title": "Flickr",
             "domain": "flickr.com",
             "img": "favicon.ico",
@@ -128,6 +175,12 @@
             "hash": "cabcbe87affa76471b3bd4f3e08ded4a927e6e8f"
         },
         {
+            "title": "GitLab",
+            "domain": "gitlab.com",
+            "img": "favicon.ico",
+            "hash": "28a3bf7ae3f8d6b642bd407ddef1a20085357f4e"
+        },
+        {
             "title": "Github",
             "domain": "github.com",
             "img": "favicon.ico",
@@ -138,6 +191,12 @@
             "domain": "google.com",
             "img": "favicon.ico",
             "hash": "49263695f6b0cdd72f45cf1b775e660fdc36c606"
+        },
+        {
+            "title": "HackForums",
+            "domain": "hackforums.net",
+            "img": "favicon.ico",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
         },
         {
             "title": "Hulu",
@@ -176,10 +235,22 @@
             "hash": "b18786d77997511ab0f6e5c9d3c5b9e1bff164be"
         },
         {
+            "title": "Kickass Torrents",
+            "domain": "katcr.to",
+            "img": "favicon.ico",
+            "hash": "54ba77603c4ffed1fb22038e91c3bfdb67eb6783"
+        },
+        {
             "title": "Kickstarter",
             "domain": "kickstarter.com",
             "img": "favicon.ico",
             "hash": "70dd54bde70e8c83f71e6ad2d19b8652ff337c7a"
+        },
+        {
+            "title": "LeakForums",
+            "domain": "leakforums.net",
+            "img": "favicon.ico",
+            "hash": "149ce49ad827861d9143c502044365833a3f3c53"
         },
         {
             "title": "LinkedIn",
@@ -218,6 +289,24 @@
             "hash": "5f9866bd22cf9bfad1b9c5e7d41017b241a66c9a"
         },
         {
+            "title": "MediaFire",
+            "domain": "mediafire.com",
+            "img": "favicon.ico",
+            "hash": "039962373b35960ef2bb5fbbe3856c0859306bf7"
+        },
+        {
+            "title": "Medium",
+            "domain": "medium.com",
+            "img": "favicon.ico",
+            "hash": "9472c58523484a03a266ed3de73d7dab150e585a"
+        },
+        {
+            "title": "Mega Upload",
+            "domain": "mega.nz",
+            "img": "favicon.ico",
+            "hash": "f014620d35787fcfdef193c20bb383f5655b9e1e"
+        },
+        {
             "title": "Messenger",
             "domain": "messenger.com",
             "img": "favicon.ico",
@@ -236,6 +325,12 @@
             "hash": "6bcb460bf314e1a5a74c8cd37a2c10526f8b133b"
         },
         {
+            "title": "Musixmatch",
+            "domain": "musixmatch.com",
+            "img": "favicon.ico",
+            "hash": "7b739ae8ac26cbe187acfd6912b3fb4866d19b5d"
+        },
+        {
             "title": "National Geographic",
             "domain": "nationalgeographic.com",
             "img": "favicon.ico",
@@ -252,6 +347,12 @@
             "domain": "nytimes.com",
             "img": "favicon.ico",
             "hash": "1965f56573cfa15ed817f84bf2248be1e2feee32"
+        },
+        {
+            "title": "Nintendo",
+            "domain": "nintendo.com",
+            "img": "favicon.ico",
+            "hash": "71041fa9c60a3589f49270b992acb80ec09f1f19"
         },
         {
             "title": "Opera",
@@ -286,8 +387,14 @@
         {
             "title": "Pushbullet",
             "domain": "pushbullet.com",
-            "img": "img/header/logo.png",
-            "hash": "61a2de868815b932f081253da21895bc62a41eca"
+            "img": "favicon.ico",
+            "hash": "95014e610ce39a546f133e927b525c28deb997e4"
+        },
+        {
+            "title": "QQ",
+            "domain": "qq.com",
+            "img": "favicon.ico",
+            "hash": "3cc89c53a54562d5a745ab1628dd74b8e1f785ee"
         },
         {
             "title": "Quora",
@@ -296,10 +403,28 @@
             "hash": "d93a7b8136879ed6c2becb12a2633ae60f5e3e4d"
         },
         {
+            "title": "Rarbg",
+            "domain": "rarbg.to",
+            "img": "favicon.ico",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
             "title": "Reddit",
             "domain": "redditstatic.com",
             "img": "icon.png",
             "hash": "1bddd29b24acde7144bb7d3dd81afafe0e8595f5"
+        },
+        {
+            "title": "Rockstar Games",
+            "domain": "rockstargames.com",
+            "img": "favicon.ico",
+            "hash": "742503df6fdd733e6256698bdd641274929fa4b6"
+        },
+        {
+            "title": "Samsung",
+            "domain": "~cdn.samsung.com",
+            "img": "etc/designs/smg/global/imgs/favicon.ico",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
         },
         {
             "title": "Skype",
@@ -314,6 +439,12 @@
             "hash": "3536d48359166e005e16c5463f987097e369bb5a"
         },
         {
+            "title": "Sony",
+            "domain": "sony.com",
+            "img": "favicon.ico",
+            "hash": "ed32588aa450f360143aa7fd10240723908fb4f6"
+        },
+        {
             "title": "Soundcloud",
             "domain": "~m.soundcloud.com",
             "img": "assets/images/sc-icons/favicon-9c79c761.ico",
@@ -324,6 +455,12 @@
             "domain": "sourceforge.net",
             "img": "favicon.ico",
             "hash": "a415b03af67d83eb39ea37fa379262348a5c1f83"
+        },
+        {
+            "title": "Spankbang",
+            "domain": "spankbang.com",
+            "img": "favicon.ico",
+            "hash": "a1b59f7b2569e097eb2a18c255637607bf67ac71"
         },
         {
             "title": "Spotify",
@@ -348,6 +485,12 @@
             "domain": "steamcommunity.com",
             "img": "favicon.ico",
             "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+        },
+        {
+            "title": "Taobao",
+            "domain": "taobao.com",
+            "img": "favicon.ico",
+            "hash": "af32d2a4d2213d734cca7ddf0ad309ba0fd2a3b8"
         },
         {
             "title": "Telegram",
@@ -392,10 +535,28 @@
             "hash": "61a7848bb12959b841105da1685888d48cbb072d"
         },
         {
+            "title": "Valve Corporation",
+            "domain": "valvesoftware.com",
+            "img": "images/favicon.ico",
+            "hash": "a0c413b7d855c807ce5bb6f43a8aa84efea4854b"
+        },
+        {
+            "title": "Vimeo",
+            "domain": "~f.vimeocdn.com",
+            "img": "images_v6/favicon.ico",
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
             "title": "Whatsapp",
             "domain": "whatsapp.com",
             "img": "favicon.png",
             "hash": "f72bf6750892a25cc40b590bafb2038109bd77ad"
+        },
+        {
+            "title": "Wikia",
+            "domain": "wikia.com",
+            "img": "favicon.ico",
+            "hash": "ff544175541c51fbe7c216f4ce42de83b224b966"
         },
         {
             "title": "Wikileaks",
@@ -410,6 +571,12 @@
             "hash": "b37ac89616b9e4c01a35991af59fe6b63e41a48e"
         },
         {
+            "title": "XHamster",
+            "domain": "xhamster.com",
+            "img": "favicon.ico",
+            "hash": "cb21430694b6ebc768005e97c389806126f60c82"
+        },
+        {
             "title": "Yahoo",
             "domain": "yahoo.com",
             "img": "favicon.ico",
@@ -420,6 +587,12 @@
             "domain": "yandex.com",
             "img": "favicon.ico",
             "hash": "ac14e377a50e3e4e7dd773929f96505583134164"
+        },
+        {
+            "title": "Youporn",
+            "domain": "youporn.com",
+            "img": "favicon.ico",
+            "hash": "da6afd9dc7a2b59a5cc2c91992f96722a5377620"
         },
         {
             "title": "Youtube",
