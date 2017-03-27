@@ -2,12 +2,17 @@
     padding-top: 5%;
     text-align: center;
 }
-.undertext {
+.scanbutton {
     text-align: center;
     padding-top: 8%;
-}
-.undertext .scan {
     margin: auto;
+}
+.failedresults,
+.successresults,
+.loadingbar {
+    text-align: center;
+    padding-top: 4%;
+    display: none;
 }
 .bar {
     transition-duration: 300ms;

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.4.4/sweetalert2.min.css" integrity="sha256-Q8nz2nAPuWywKEbtus2Z4MQKK4FSEq2fSXK0zozdtB8=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.css" integrity="sha256-lCqHBvboFPu7gyEswcz5UdbXKyB6FDOtfbOeMvUEfkY=" crossorigin="anonymous" />
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js" integrity="sha384-o9KO9jVK1Q4ybtHgJCCHfgQrTRNlkT6SL3j/qMuBMlDw3MmFrgrOHCOaIMJWGgK5" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.js" integrity="sha256-mq9Ru97qzOm1x5zeYFfPniWgQP9tEmjo3O4jUEJdjNY=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.4.4/sweetalert2.min.js" integrity="sha256-JoItGlvRIkYsnlPQ2+m1IQYYdenZa+yuktGGDE9uDg8=" crossorigin="anonymous"></script>
@@ -29,8 +29,32 @@
     <div class="ui container site">
         <h1 class="title">CensorRadar</h1>
         <p class="infotext">This website will try to reach a list of domains and return which ones fail.</p>
-        <div class="undertext">
+        <div class="scanbutton">
             <button class="ui huge button scan"><i class="refresh icon"></i>Scan</button>
+        </div>
+        <div class="loadingbar">
+            <b class='count'></b>
+            <BR>
+            <BR>
+            <div class='ui progress'>
+                <div class='bar'></div>
+            </div>
+        </div>
+        <div class="failedresults">
+            <h4 class='failed'></h4>
+            <BR>
+            <table class='ui celled table'>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div class="successresults">
+            <h4><i class='checkmark icon'></i> Success! No domains are blocked.</h4>
         </div>
     </div>
 </body>
