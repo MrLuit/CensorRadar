@@ -1,5 +1,6 @@
 $(document).ready(function() {
     $.get("domains.json", function(data) {
+		$(".scan").removeClass("disabled");
         $(".scan").click(function() {
             var domains = data.domains;
             var faileddomains = [];
