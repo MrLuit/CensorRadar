@@ -22,16 +22,20 @@ Javascript creates a new image with an image on the domain we want to check as s
 
 Making an official API on Github Pages is hard because this project is written in Javascript and a simple curl request can't render Javascript. A solution would be to create your own project using the data from this repository. If you make your program fetch data from https://raw.githubusercontent.com/MrLuit/CensorRadar/master/domains.json (we will try to keep this list updated) you can use the data to ping all the websites on the list. Let me know about projects you've created :)
 
+## Cryptography
+
+In the JSON file, there is a 'hash' key. The value is a SHA1 hash of the contents of the provided image (**not the url!**). You can use this hash to verify if the contents of the provided image to make sure that a potential firewall isn't just returning a different favicon. Ofcourse this method isn't bulletproof because a smart filter could potentially allow all images or allow favicons without allowing the website itself.
+
+Javascript doesn't have a way to verify the SHA1 hash but you can provide one in your own program.
+
 ## Contributing
 
 When adding a new domain to domains.json, it must meet the following requirements:
-* The domain must be a popular domain and must get traffic from all around the world (no country-specific domains)
-* The title should be a simple title that matches the website
+* The website is a popular international website and has an accesible image on the primary domain (not a different CDN server)
 * Don't put `http://` or `https://` in the domain and **only** put the path to the image in img without leading `/`
-* The domain must not be already present in domains.json
-* Make sure that domains.json is correctly alphabetically sorted
-* Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website
+* Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website.
 * When using a subdomain like `assets.github.com`, put a `~` before the domain so the parser recognizes it's a subdomain and doesn't put `www.` in front of it
+* The hash is SHA1 hash of the content of the image (read the section about [cryptography](https://github.com/MrLuit/CensorRadar#cryptography))
 
 You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls) with all these requirements.
 
