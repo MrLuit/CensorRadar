@@ -1,13 +1,13 @@
 $(document).ready(function() {
     $.get("domains.json", function(data) {
-		$(".scan").removeClass("disabled");
+        $(".scan").removeClass("disabled");
         $(".scan").click(function() {
             var domains = data.domains;
             var faileddomains = [];
             var cnt = 0;
             $(".count").html("0 / " + domains.length);
-			$(".scanbutton").hide();
-			$(".loadingbar").show();
+            $(".scanbutton").hide();
+            $(".loadingbar").show();
             $.each(domains, function(i, data) {
                 var image = new Image();
                 image.setAttribute("domain", data.domain.replace("~", ""));
@@ -21,14 +21,14 @@ $(document).ready(function() {
                         "img": this.src
                     });
                     $(".bar").width(((cnt / domains.length) * 100) + '%');
-                    $(".failedresults").show();
+                    $(".failedresults").fadeIn(500);
                     if (faileddomains.length == 1) {
                         $(".failed").html('1 domain could not be reached');
                     } else {
                         $(".failed").html(faileddomains.length + ' domains could not be reached');
                     }
                     if (cnt == domains.length) {
-                        $(".loadingbar").hide();
+                        $(".loadingbar").fadeOut(500);
                     }
                     $(".table tbody").prepend("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
                 };
@@ -38,10 +38,10 @@ $(document).ready(function() {
                     $(".count").html(cnt + " / " + domains.length);
                     $(".bar").width(((cnt / domains.length) * 100) + '%');
                     if (cnt == domains.length && faileddomains.length == 0) {
-                        $(".loadingbar").hide();
-                        $(".successresults").show();
+                        $(".loadingbar").fadeOut(500);
+                        $(".successresults").fadeIn(500);
                     } else if (cnt == domains.length) {
-                        $(".loadingbar").hide();
+                        $(".loadingbar").fadeOut(500);
                     }
                 };
                 if (data.domain.match("^~")) {
