@@ -29,7 +29,7 @@ $(document).ready(function() {
                     if (cnt == domains.length) {
                         $(".loadingbar").hide();
                     }
-                    $(".table tbody").prepend("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=" + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
+                    $(".table tbody").prepend("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
                 };
 
                 image.onload = function() {
