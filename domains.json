@@ -326,6 +326,12 @@
             "hash": "a415b03af67d83eb39ea37fa379262348a5c1f83"
         },
         {
+            "title": "Spotify",
+            "domain": "spotify.com",
+            "img": "favicon.ico",
+            "hash": "70a0e66f27ae1b004628117d4d9e9b4110f91651"
+        },
+        {
             "title": "Stack Overflow",
             "domain": "stackoverflow.com",
             "img": "favicon.ico",
