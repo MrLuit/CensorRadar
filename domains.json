@@ -1,3 +1,4 @@
+
 {
     "domains": [
         {
@@ -13,6 +14,18 @@
             "hash": "0283dbf9e9c03bcb4ab7cde22b12dcf13f0dacbb"
         },
         {
+            "title": "Adf.ly",
+            "domain": "adf.ly",
+            "img": "favicon.ico",
+            "hash": "1d84a143f0696e4932d57dddd6ab394eee31e365"
+        },
+        {
+            "title": "Adobe",
+            "domain": "adobe.com",
+            "img": "favicon.ico",
+            "hash": "1151bcc6656a2cd4c45376e14afea3ce622fa8e3"
+        },
+        {
             "title": "Amazon",
             "domain": "amazon.com",
             "img": "favicon.ico",
@@ -25,22 +38,34 @@
             "hash": "6164148a39d6a27286641896fce3b76f439aeab1"
         },
         {
-            "title": "Baidu",
-            "domain": "amazon.com",
-            "img": "favicon.ico",
-            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
-        },
-        {
             "title": "BBC",
             "domain": "bbc.com",
             "img": "favicon.ico",
             "hash": "b24e4cf7bfeb1306dfd5d61abb8cd61c2d936ef2"
         },
         {
+            "title": "Baidu",
+            "domain": "amazon.com",
+            "img": "favicon.ico",
+            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
+        },
+        {
             "title": "Bing",
             "domain": "bing.com",
             "img": "favicon.ico",
             "hash": "96607ba47296757df3a005614947a5e83ba8683d"
+        },
+        {
+            "title": "Bitly",
+            "domain": "bit.ly",
+            "img": "favicon.ico",
+            "hash": "b0c679def36e3ccbb3c39a3f84ce47f87fe38be8"
+        },
+        {
+            "title": "Blogger",
+            "domain": "blogger.com",
+            "img": "favicon.ico",
+            "hash": "30ef5c54b8bbc3487ea2b4c45cd11ea2932e4340"
         },
         {
             "title": "BuzzFeed",
@@ -61,10 +86,22 @@
             "hash": "4849d0140d90b8767b1983dc69d4fa3c68ef9c41"
         },
         {
+            "title": "Craigslist",
+            "domain": "craigslist.org",
+            "img": "favicon.ico",
+            "hash": "11ea204bfd9251abb881b58b0f665e395c82693c"
+        },
+        {
             "title": "Daily Mail",
             "domain": "dailymail.co.uk",
             "img": "favicon.ico",
             "hash": "03117e941e6b9a1fed4eddd76f86a74f56055d8f"
+        },
+        {
+            "title": "Deviantart",
+            "domain": "deviantart.com",
+            "img": "favicon.ico",
+            "hash": "833bcf466d66546376ae227820e4aa34fa2488f1"
         },
         {
             "title": "Discord",
@@ -79,6 +116,18 @@
             "hash": "c3deb101bd4d4cc2d67b0d52d57b0bf0f8336c63"
         },
         {
+            "title": "Flickr",
+            "domain": "flickr.com",
+            "img": "favicon.ico",
+            "hash": "e165ce6efd095b29fba17976aa05725733d21e80"
+        },
+        {
+            "title": "Fox News",
+            "domain": "foxnews.com",
+            "img": "favicon.ico",
+            "hash": "cabcbe87affa76471b3bd4f3e08ded4a927e6e8f"
+        },
+        {
             "title": "Github",
             "domain": "github.com",
             "img": "favicon.ico",
@@ -91,10 +140,22 @@
             "hash": "49263695f6b0cdd72f45cf1b775e660fdc36c606"
         },
         {
+            "title": "Hulu",
+            "domain": "hulu.com",
+            "img": "favicon.ico",
+            "hash": "bf73e8f58202d978065a69713896b3c61816fe13"
+        },
+        {
             "title": "IGN",
             "domain": "ign.com",
             "img": "favicon.ico",
-            "hash": "9df6b7d04d54674fc25491f3536759769137c821"
+            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        },
+        {
+            "title": "IMDb",
+            "domain": "imdb.com",
+            "img": "favicon.ico",
+            "hash": "0a350b9e514f3d6b19eca1ffea5e9abfa2a67b59"
         },
         {
             "title": "Imgur",
@@ -107,6 +168,18 @@
             "domain": "instagram.com",
             "img": "static/images/ico/favicon-192.png/b407fa101800.png",
             "hash": "18fea4ad0371ed6cd21007f24a47812ba09b8fa1"
+        },
+        {
+            "title": "Internet Archive",
+            "domain": "archive.org",
+            "img": "favicon.ico",
+            "hash": "b18786d77997511ab0f6e5c9d3c5b9e1bff164be"
+        },
+        {
+            "title": "Kickstarter",
+            "domain": "kickstarter.com",
+            "img": "favicon.ico",
+            "hash": "70dd54bde70e8c83f71e6ad2d19b8652ff337c7a"
         },
         {
             "title": "LinkedIn",
@@ -125,6 +198,18 @@
             "domain": "liveleak.com",
             "img": "favicon.ico",
             "hash": "91fb1e8cf260e6807533600e1c7a0f5f80dccd48"
+        },
+        {
+            "title": "MSN",
+            "domain": "msn.com",
+            "img": "favicon.ico",
+            "hash": "00e2461bcd67d7ba511db230415000aefbd30d2d"
+        },
+        {
+            "title": "MTV",
+            "domain": "mtv.com",
+            "img": "favicon.ico",
+            "hash": "d737ffd014488c602060b2622d18b4a0f32f02b7"
         },
         {
             "title": "Mashable",
@@ -151,16 +236,10 @@
             "hash": "6bcb460bf314e1a5a74c8cd37a2c10526f8b133b"
         },
         {
-            "title": "MTV",
-            "domain": "mtv.com",
+            "title": "MySpace",
+            "domain": "myspace.com",
             "img": "favicon.ico",
-            "hash": "d737ffd014488c602060b2622d18b4a0f32f02b7"
-        },
-        {
-            "title": "MSN",
-            "domain": "msn.com",
-            "img": "favicon.ico",
-            "hash": "00e2461bcd67d7ba511db230415000aefbd30d2d"
+            "hash": "4f68f349429a976b46b7c3d533e2b35492eef53e"
         },
         {
             "title": "National Geographic",
@@ -205,12 +284,6 @@
             "hash": "1eba0b461d1305db763eb7e0383988dddcead980"
         },
         {
-            "title": "Piratebay",
-            "domain": "thepiratebay.org",
-            "img": "favicon.ico",
-            "hash": "fc0e3d17c0d17865a24f3bbb3afd8a1ed0bbea83"
-        },
-        {
             "title": "Pornhub",
             "domain": "pornhub.com",
             "img": "favicon.ico",
@@ -221,6 +294,12 @@
             "domain": "pushbullet.com",
             "img": "img/header/logo.png",
             "hash": "61a2de868815b932f081253da21895bc62a41eca"
+        },
+        {
+            "title": "Quora",
+            "domain": "quora.com",
+            "img": "favicon.ico",
+            "hash": "d93a7b8136879ed6c2becb12a2633ae60f5e3e4d"
         },
         {
             "title": "Reddit",
@@ -247,6 +326,12 @@
             "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
         },
         {
+            "title": "Sourceforge",
+            "domain": "sourceforge.net",
+            "img": "favicon.ico",
+            "hash": "a415b03af67d83eb39ea37fa379262348a5c1f83"
+        },
+        {
             "title": "Stack Overflow",
             "domain": "stackoverflow.com",
             "img": "favicon.ico",
@@ -269,6 +354,18 @@
             "domain": "telegram.org",
             "img": "favicon.ico",
             "hash": "a5b2c928a64ea5240ec2ea18c5ba0b2ffad09910"
+        },
+        {
+            "title": "The Guardian",
+            "domain": "theguardian.com",
+            "img": "favicon.ico",
+            "hash": "fb1d8cb8d0d5bd3cb9b479c947bb8a3d9d2c5bc7"
+        },
+        {
+            "title": "The Piratebay",
+            "domain": "thepiratebay.org",
+            "img": "favicon.ico",
+            "hash": "fc0e3d17c0d17865a24f3bbb3afd8a1ed0bbea83"
         },
         {
             "title": "Tumblr",
