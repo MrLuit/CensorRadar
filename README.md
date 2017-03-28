@@ -1,5 +1,5 @@
 # CensorRadar
-[![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg?style=flat-square&colorB=E67233)](https://github.com/MrLuit/CensorRadar/releases) [![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) [![downloads](https://img.shields.io/github/downloads/MrLuit/CensorRadar/total.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/traffic) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg?style=flat-square&colorB=E67233)](https://github.com/MrLuit/CensorRadar/releases) [![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) [![views](https://img.shields.io/badge/views-1k-brightgreen.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/traffic) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
 
 This repository is the open-source project for a website that scans your local network for any blocked websites.
 
@@ -24,7 +24,7 @@ Making an official API on Github Pages is hard because this project is written i
 
 ## Cryptography
 
-In the JSON file, there is a 'hash' key. The value is a SHA1 hash of the contents of the provided image (**not the url!**). You can use this hash to verify if the contents of the provided image to make sure that a potential firewall isn't just returning a different favicon. Ofcourse this method isn't bulletproof because a smart filter could potentially allow all images or allow favicons without allowing the website itself.
+In the JSON file, there is a 'hash' key. The value is a SHA1 hash of the contents of the provided image (**not the url!**). You can use this hash to verify the contents of the provided image to make sure that a potential firewall isn't just returning a different favicon. Ofcourse this method isn't bulletproof because a smart filter could potentially allow all images or allow favicons without allowing the website itself.
 
 Javascript doesn't have a way to verify the SHA1 hash but you can provide one in your own program.
 
