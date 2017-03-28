@@ -51,5 +51,7 @@ $(document).ready(function() {
                 }
             });
         });
-    });
+    }).fail(function() {
+		swal('Connection error','The domains database could not be loaded','error');
+	})
 });
