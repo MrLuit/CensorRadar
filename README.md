@@ -1,5 +1,5 @@
 # CensorRadar
-[![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg?style=flat-square&colorB=E67233)](https://github.com/MrLuit/CensorRadar/releases) [![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) [![views](https://img.shields.io/badge/views-1k-brightgreen.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/traffic) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/release/MrLuit/CensorRadar.svg?style=flat-square&colorB=E67233)](https://github.com/MrLuit/CensorRadar/releases) [![license](https://img.shields.io/github/license/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/LICENSE.md) ![views](https://img.shields.io/badge/views-1k-brightgreen.svg?style=flat-square) [![contributors](https://img.shields.io/github/contributors/MrLuit/CensorRadar.svg?style=flat-square)](https://github.com/MrLuit/CensorRadar/graphs/contributors)
 
 This repository is the open-source project for a website that scans your local network for any blocked websites.
 
@@ -10,6 +10,16 @@ Go to the website and click 'Start scan'. You will see all blocked domains (if t
 ## How does it work
 
 Javascript creates a new image with an image on the domain we want to check as source. This will prevent [CORS errors](https://enable-cors.org/) and works without too much trouble for the user. A disadvantage is that some popular domains host images on a different server and therefore it's hard to check if the domain is blocked or the image server of the domain. To solve this we try to request favicon.ico from the primary server and that works in most cases because even in the worst scenario the server would probably still redirect you to the right favicon URL.
+
+## Compatibility
+
+This code is tested and works on the following browsers:
+- [ ] Microsoft Edge
+- [ ] Internet Explorer
+- [x] Google Chrome
+- [x] Mozilla Firefox
+- [x] Safari
+- [x] Opera
 
 ## Libraries
 
