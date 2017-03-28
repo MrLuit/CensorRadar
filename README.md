@@ -13,13 +13,10 @@ Javascript creates a new image with an image on the domain we want to check as s
 
 ## Compatibility
 
-This code is tested and works on the following browsers:
-- [ ] Microsoft Edge
-- [ ] Internet Explorer
-- [x] Google Chrome
-- [x] Mozilla Firefox
-- [x] Safari
-- [x] Opera
+|   Google Chrome    |   Mozilla Firefox  |        Safari      |       Opera        | Internet Explorer | Microsoft Edge |
+|:------------------:|:------------------:|:------------------:|:------------------:|:-----------------:|:--------------:|
+| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |       :x:         |      :x:       |
+
 
 ## Libraries
 
