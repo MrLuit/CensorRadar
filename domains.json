@@ -1,10 +1,10 @@
 {
     "domains": [
         {
-            "title": "Watch Movies Online Free - 123movies.to",
-            "domain": "https://gomovies.to",
-            "img": "https://gomovies.to/assets/images/gomovies-favicon.png"
-            "hash": "d0c6bf48b819ff17adfd9f8bfe89b61c80df6e28"
+            "title": "Torrent Search Engine | 1337x.to",
+            "domain": "https://1337x.to/",
+            "img": "favicon.ico",
+            "hash": "9df2439bce4e08d28c14c37cd2f74fc678465b23"
         },
         {
             "title": "4chan",
@@ -192,6 +192,12 @@
             "domain": "github.com",
             "img": "favicon.ico",
             "hash": "4eda7c0f3a36181f483dd0a14efe9f58c8b29814"
+        },
+        {
+            "title": "Watch Movies Online Free - 123movies.to",
+            "domain": "https://gomovies.to",
+            "img": "https://gomovies.to/assets/images/gomovies-favicon.png",
+            "hash": "d0c6bf48b819ff17adfd9f8bfe89b61c80df6e28"
         },
         {
             "title": "Google",
