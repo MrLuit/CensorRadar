@@ -15,7 +15,7 @@
     display: none;
 }
 .bar {
-    transition-duration: 300ms;
+    transition-duration: 1000ms;
 }
 .ui.table {
     margin-left: 10%;
@@ -54,38 +54,6 @@ h4 {
         transform: rotate(10deg)
     }
 }
-.ui.container.site {
-    padding-top: 5%;
-    text-align: center;
-}
-.undertext {
-    text-align: center;
-    padding-top: 8%;
-}
-.undertext .scan {
-    margin: auto;
-}
-.bar {
-    transition-duration: 300ms;
-}
-.ui.table {
-    margin-left: 10%;
-    width: 80%;
-}
-.failed {
-    color: red;
-}
-.right {
-    display: inline;
-    float: right;
-    font-size: 11pt;
-}
-h4 {
-    color: green;
-}
-.github-corner:hover .octo-arm {
-    animation: octocat-wave 560ms ease-in-out
-}
 @keyframes octocat-wave {
     0%, 100% {
         transform: rotate(0)
@@ -113,7 +81,7 @@ h4 {
         margin-left: 0%;
         width: 50%;
     }
-    .undertext {
+    .scanbutton {
         padding-top: 20px;
     }
     .right {
