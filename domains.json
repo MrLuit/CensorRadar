@@ -1,6 +1,12 @@
 {
     "domains": [
         {
+            "title": "Watch Movies Online Free - 123movies.to",
+            "domain": "https://gomovies.to",
+            "img": "https://gomovies.to/assets/images/gomovies-favicon.png"
+            "hash": "d0c6bf48b819ff17adfd9f8bfe89b61c80df6e28"
+        },
+        {
             "title": "4chan",
             "domain": "4chan.org",
             "img": "favicon.ico",
@@ -93,7 +99,8 @@
         {
             "title": "Booking",
             "domain": "booking.com",
-            "img": "favicon.ico",
+            "
+            ": "favicon.ico",
             "hash": "645dce7842fa7483bb676def6df255317f203f22"
         },
         {
