@@ -541,6 +541,12 @@
             "hash": "eee14e8a36b0512c12ba26c0516b4553618dea36"
         },
         {
+            "title": "Tor",
+            "domain": "https://www.torproject.org/",
+            "img": "./images/favicon.ico",
+            "hash": "ed0b00d86e98923ab65716981e593313937c6ce6"
+        },
+        {
             "title": "VK",
             "domain": "vk.com",
             "img": "favicon.ico",
