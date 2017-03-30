@@ -499,6 +499,12 @@
             "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
         },
         {
+            "title": "Steam Store",
+            "domain": "http://store.steampowered.com/",
+            "img": "favicon.ico",
+            "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+        },
+        {
             "title": "Taobao",
             "domain": "taobao.com",
             "img": "favicon.ico",
