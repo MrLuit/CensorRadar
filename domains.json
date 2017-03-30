@@ -262,7 +262,13 @@
             "title": "LeakForums",
             "domain": "leakforums.net",
             "img": "favicon.ico",
-            "hash": "149ce49ad827861d9143c502044365833a3f3c53"
+            "hash": ""
+        },
+        {
+            "title": "Letterboxd",
+            "domain": "letterboxd.com",
+            "img": "favicon.ico",
+            "hash": "df66e07e525b9a6d909ec46ff40db09d19de3898"
         },
         {
             "title": "LinkedIn",
