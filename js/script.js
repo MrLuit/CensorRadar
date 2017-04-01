@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $.get("https://mrluit.github.io/CensorRadar/domains.json", function(data) {
-        if (sha256(JSON.stringify(data)) == "a6541ce714bd618502a72a483d0fbb3b77bb9eef") {
+        if (sha256(JSON.stringify(data)) == "376771bb60594247d59429f559f75a7ac9badf0cfce7afce6b90e2e9907ff171") {
             $(".scan").removeClass("disabled");
             $(".scan").click(function() {
                 var domains = data.domains;
