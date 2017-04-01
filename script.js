@@ -8,7 +8,7 @@ $(document).ready(function() {
             $(".count").html("0 / " + domains.length);
             $(".scanbutton").hide();
             $(".loadingbar").show();
-            $.each(domains, function(i, data) {
+            $.each(domains.reverse(), function(i, data) {
                 var image = new Image();
                 image.setAttribute("domain", data.domain.replace("~", ""));
                 image.setAttribute("title", data.title);
@@ -30,9 +30,10 @@ $(document).ready(function() {
                     if (cnt == domains.length) {
                         $(".loadingbar").fadeOut(500);
                     }
-                    new_row = "<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>";
-					new_row.hide();
-					$(".table tbody").append(new_row).fadeIn("slow");
+                    new_row = $("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
+                    new_row.hide();
+                    $(".table tbody").prepend(new_row);
+                    new_row.fadeIn(200);
                 };
 
                 image.onload = function() {
@@ -54,6 +55,6 @@ $(document).ready(function() {
             });
         });
     }).fail(function() {
-		swal('Connection error','The domains database could not be loaded','error');
-	})
+        swal('Connection error', 'The domains database could not be loaded', 'error');
+    })
 });
