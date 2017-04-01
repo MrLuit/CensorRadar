@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $.get("https://mrluit.github.io/CensorRadar/domains.json", function(data) {
-        if (sha1(JSON.stringify(data)) == "a6541ce714bd618502a72a483d0fbb3b77bb9eef") {
+        if (sha256(JSON.stringify(data)) == "a6541ce714bd618502a72a483d0fbb3b77bb9eef") {
             $(".scan").removeClass("disabled");
             $(".scan").click(function() {
                 var domains = data.domains;
@@ -57,6 +57,7 @@ $(document).ready(function() {
             });
         } else {
             swal('Verification error', 'Database SHA1 hash mismatch', 'error');
+			console.log(sha256(JSON.stringify(data)));
         }
     }).fail(function() {
         swal('Connection error', 'The domains database could not be loaded', 'error');
