@@ -23,14 +23,16 @@ $(document).ready(function() {
                     $(".bar").width(((cnt / domains.length) * 100) + '%');
                     $(".failedresults").fadeIn(500);
                     if (faileddomains.length == 1) {
-                        $(".failed").html('1 domain could not be reached');
+                        $(".failed").html(faileddomains.length + ' domain could not be reached');
                     } else {
                         $(".failed").html(faileddomains.length + ' domains could not be reached');
                     }
                     if (cnt == domains.length) {
                         $(".loadingbar").fadeOut(500);
                     }
-                    $(".table tbody").prepend("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
+                    new_row = "<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>";
+					new_row.hide();
+					$(".table tbody").append(new_row).fadeIn("slow");
                 };
 
                 image.onload = function() {
