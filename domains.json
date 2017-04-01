@@ -3,614 +3,697 @@
         {
             "title": "1337X",
             "domain": "1337x.to",
-            "img": "favicon.ico",
-            "hash": "9df2439bce4e08d28c14c37cd2f74fc678465b23"
+            "img": "favicon.ico"
         },
         {
             "title": "4chan",
             "domain": "4chan.org",
-            "img": "favicon.ico",
-            "hash": "282c9d81853b256135c67793a52a62dfd7021055"
+            "img": "favicon.ico"
         },
         {
             "title": "4shared",
             "domain": "4shared.com",
-            "img": "favicon.ico",
-            "hash": "5140f1662c47c393b276e656d35c5c45408b7128"
+            "img": "favicon.ico"
         },
         {
             "title": "9gag",
             "domain": "9gag.com",
-            "img": "favicon.ico",
-            "hash": "0283dbf9e9c03bcb4ab7cde22b12dcf13f0dacbb"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "AMD",
+            "domain": "amd.com",
+            "img": "favicon.ico"
         },
         {
             "title": "AOL",
             "domain": "aol.com",
-            "img": "favicon.ico",
-            "hash": "81d03c69a59fc76962fb939764df8c897b6baefb"
+            "img": "favicon.ico"
         },
         {
             "title": "Adf.ly",
             "domain": "adf.ly",
-            "img": "favicon.ico",
-            "hash": "1d84a143f0696e4932d57dddd6ab394eee31e365"
+            "img": "favicon.ico"
         },
         {
             "title": "Adobe",
             "domain": "adobe.com",
-            "img": "favicon.ico",
-            "hash": "1151bcc6656a2cd4c45376e14afea3ce622fa8e3"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "AirVPN",
+            "domain": "airvpn.org",
+            "img": "favicon.ico"
         },
         {
             "title": "AliExpress",
             "domain": "aliexpress.com",
-            "img": "favicon.ico",
-            "hash": "2569b0965fb8f311fd546f9de81548bb2cc1d7af"
+            "img": "favicon.ico"
         },
         {
             "title": "Amazon",
             "domain": "amazon.com",
-            "img": "favicon.ico",
-            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Android",
+            "domain": "android.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Apple",
             "domain": "apple.com",
-            "img": "favicon.ico",
-            "hash": "6164148a39d6a27286641896fce3b76f439aeab1"
+            "img": "favicon.ico"
         },
         {
             "title": "BBC",
             "domain": "bbc.com",
-            "img": "favicon.ico",
-            "hash": "b24e4cf7bfeb1306dfd5d61abb8cd61c2d936ef2"
+            "img": "favicon.ico"
         },
         {
             "title": "Baidu",
             "domain": "amazon.com",
-            "img": "favicon.ico",
-            "hash": "c44a1bb9d14385334eb851fbb0afb19d961c1ee7"
+            "img": "favicon.ico"
         },
         {
             "title": "Bing",
             "domain": "bing.com",
-            "img": "favicon.ico",
-            "hash": "96607ba47296757df3a005614947a5e83ba8683d"
+            "img": "favicon.ico"
         },
         {
             "title": "Bitbucket",
             "domain": "bitbucket.org",
-            "img": "favicon.ico",
-            "hash": "c2fc0eb6ae4cd21495989c51e5f36b685991dee6"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Bitcoin Core",
+            "domain": "bitcoin.org",
+            "img": "favicon.ico"
         },
         {
             "title": "Bitly",
             "domain": "bit.ly",
-            "img": "favicon.ico",
-            "hash": "b0c679def36e3ccbb3c39a3f84ce47f87fe38be8"
+            "img": "favicon.ico"
         },
         {
             "title": "Blogger",
             "domain": "blogger.com",
-            "img": "favicon.ico",
-            "hash": "30ef5c54b8bbc3487ea2b4c45cd11ea2932e4340"
+            "img": "favicon.ico"
         },
         {
             "title": "Booking",
             "domain": "booking.com",
-            "img": "favicon.ico",
-            "hash": "645dce7842fa7483bb676def6df255317f203f22"
+            "img": "favicon.ico"
         },
         {
             "title": "BuzzFeed",
             "domain": "buzzfeed.com",
-            "img": "static-assets/img/favicon.ico",
-            "hash": "986a86948c98b827443724b71e0f3770e76d9be3"
+            "img": "static-assets/img/favicon.ico"
         },
         {
             "title": "CNN",
             "domain": "cnn.com",
-            "img": "favicon.ico",
-            "hash": "7d7925b6b1e80934c87f5e9a20de644d1378d32d"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Cisco",
+            "domain": "cisco.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "CloudFlare",
+            "domain": "cloudflare.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Comedy Central",
             "domain": "cc.com",
-            "img": "favicon.ico",
-            "hash": "4849d0140d90b8767b1983dc69d4fa3c68ef9c41"
+            "img": "favicon.ico"
         },
         {
             "title": "Craigslist",
             "domain": "craigslist.org",
-            "img": "favicon.ico",
-            "hash": "11ea204bfd9251abb881b58b0f665e395c82693c"
+            "img": "favicon.ico"
         },
         {
             "title": "Daily Mail",
             "domain": "dailymail.co.uk",
-            "img": "favicon.ico",
-            "hash": "03117e941e6b9a1fed4eddd76f86a74f56055d8f"
+            "img": "favicon.ico"
         },
         {
             "title": "Dailymotion",
             "domain": "~static1.dmcdn.net",
-            "img": "images/favicons/favicon-32x32.png",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "images/favicons/favicon-32x32.png"
+        },
+        {
+            "title": "Deezer",
+            "domain": "deezer.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Dell",
             "domain": "dell.com",
-            "img": "favicon.ico",
-            "hash": "dd0ebcd1220a1049f62ca143c124e29711087681"
+            "img": "favicon.ico"
         },
         {
             "title": "Deviantart",
             "domain": "deviantart.com",
-            "img": "favicon.ico",
-            "hash": "833bcf466d66546376ae227820e4aa34fa2488f1"
+            "img": "favicon.ico"
         },
         {
             "title": "Discord",
             "domain": "discordapp.com",
-            "img": "assets/07dca80a102d4149e9736d4b162cff6f.ico",
-            "hash": "1af3759a49bc1dcf17a8b0a305d5ccbee17d0944"
+            "img": "assets/07dca80a102d4149e9736d4b162cff6f.ico"
+        },
+        {
+            "title": "Disqus",
+            "domain": "disqus.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Dogecoin",
+            "domain": "dogecoin.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Dutch Government",
+            "domain": "rijksoverheid.nl",
+            "img": "favicon.ico"
         },
         {
             "title": "Ebay",
             "domain": "ebay.com",
-            "img": "favicon.ico",
-            "hash": "c3deb101bd4d4cc2d67b0d52d57b0bf0f8336c63"
+            "img": "favicon.ico"
         },
         {
             "title": "Electronic Arts",
             "domain": "ea.com",
-            "img": "favicon.ico",
-            "hash": "42ba9aa95cd36b6d5b343334053bb116d8aea856"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Ethereum",
+            "domain": "ethereum.org",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "European Union",
+            "domain": "europa.eu",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Fiverr",
+            "domain": "fiverr.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Flickr",
             "domain": "flickr.com",
-            "img": "favicon.ico",
-            "hash": "e165ce6efd095b29fba17976aa05725733d21e80"
+            "img": "favicon.ico"
         },
         {
             "title": "Fox News",
             "domain": "foxnews.com",
-            "img": "favicon.ico",
-            "hash": "cabcbe87affa76471b3bd4f3e08ded4a927e6e8f"
+            "img": "favicon.ico"
         },
         {
             "title": "GitLab",
             "domain": "gitlab.com",
-            "img": "favicon.ico",
-            "hash": "28a3bf7ae3f8d6b642bd407ddef1a20085357f4e"
+            "img": "favicon.ico"
         },
         {
             "title": "Github",
             "domain": "github.com",
-            "img": "favicon.ico",
-            "hash": "4eda7c0f3a36181f483dd0a14efe9f58c8b29814"
+            "img": "favicon.ico"
         },
         {
             "title": "GoMovies",
             "domain": "gomovies.to",
-            "img": "assets/images/gomovies-favicon.png",
-            "hash": "d0c6bf48b819ff17adfd9f8bfe89b61c80df6e28"
+            "img": "assets/images/gomovies-favicon.png"
         },
         {
             "title": "Google",
             "domain": "google.com",
-            "img": "favicon.ico",
-            "hash": "49263695f6b0cdd72f45cf1b775e660fdc36c606"
+            "img": "favicon.ico"
         },
         {
             "title": "HackForums",
             "domain": "hackforums.net",
-            "img": "favicon.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "HideMe",
+            "domain": "hide.me",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "HideMyAss",
+            "domain": "hidemyass.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Houseparty",
+            "domain": "joinhouse.party",
+            "img": "assets/img/favicon.png"
         },
         {
             "title": "Hulu",
             "domain": "hulu.com",
-            "img": "favicon.ico",
-            "hash": "bf73e8f58202d978065a69713896b3c61816fe13"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "IBM",
+            "domain": "ibm.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "IFTTT",
+            "domain": "ifttt.com",
+            "img": "favicon.ico"
         },
         {
             "title": "IGN",
             "domain": "ign.com",
-            "img": "favicon.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "favicon.ico"
         },
         {
             "title": "IMDb",
             "domain": "imdb.com",
-            "img": "favicon.ico",
-            "hash": "0a350b9e514f3d6b19eca1ffea5e9abfa2a67b59"
+            "img": "favicon.ico"
         },
         {
             "title": "Imgur",
             "domain": "imgur.com",
-            "img": "favicon.ico",
-            "hash": "9be43a87080a60971f894c9f27eb61ee22a09f1c"
+            "img": "favicon.ico"
         },
         {
             "title": "Instagram",
             "domain": "instagram.com",
-            "img": "static/images/ico/favicon-192.png/b407fa101800.png",
-            "hash": "18fea4ad0371ed6cd21007f24a47812ba09b8fa1"
+            "img": "static/images/ico/favicon-192.png/b407fa101800.png"
+        },
+        {
+            "title": "Intel",
+            "domain": "intel.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Internet Archive",
             "domain": "archive.org",
-            "img": "favicon.ico",
-            "hash": "b18786d77997511ab0f6e5c9d3c5b9e1bff164be"
+            "img": "favicon.ico"
         },
         {
             "title": "Kickass Torrents",
             "domain": "katcr.to",
-            "img": "favicon.ico",
-            "hash": "54ba77603c4ffed1fb22038e91c3bfdb67eb6783"
+            "img": "favicon.ico"
         },
         {
             "title": "Kickstarter",
             "domain": "kickstarter.com",
-            "img": "favicon.ico",
-            "hash": "70dd54bde70e8c83f71e6ad2d19b8652ff337c7a"
+            "img": "favicon.ico"
         },
         {
             "title": "LeakForums",
             "domain": "leakforums.net",
-            "img": "favicon.ico",
-            "hash": "149ce49ad827861d9143c502044365833a3f3c53"
+            "img": "favicon.ico"
         },
         {
             "title": "LinkedIn",
             "domain": "linkedin.com",
-            "img": "favicon.ico",
-            "hash": "70f5157a8a4dc5a924abad83309d2859cf241ef6"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Litecoin",
+            "domain": "litecoin.org",
+            "img": "img/litecoin.png"
         },
         {
             "title": "Live",
             "domain": "live.com",
-            "img": "favicon.ico",
-            "hash": "81a4e3f87ad5ac6f50bfcd1f0117c9320817dc9f"
+            "img": "favicon.ico"
         },
         {
             "title": "Liveleak",
             "domain": "liveleak.com",
-            "img": "favicon.ico",
-            "hash": "91fb1e8cf260e6807533600e1c7a0f5f80dccd48"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Livestream",
+            "domain": "~cdn.livestream.com",
+            "img": "deploy/website/production/e5d1a53/assets/favicon.ico"
         },
         {
             "title": "MSN",
             "domain": "msn.com",
-            "img": "favicon.ico",
-            "hash": "00e2461bcd67d7ba511db230415000aefbd30d2d"
+            "img": "favicon.ico"
         },
         {
             "title": "MTV",
             "domain": "mtv.com",
-            "img": "favicon.ico",
-            "hash": "d737ffd014488c602060b2622d18b4a0f32f02b7"
+            "img": "favicon.ico"
         },
         {
             "title": "Mashable",
             "domain": "mashable.com",
-            "img": "favicon.ico",
-            "hash": "5f9866bd22cf9bfad1b9c5e7d41017b241a66c9a"
+            "img": "favicon.ico"
         },
         {
             "title": "MediaFire",
             "domain": "mediafire.com",
-            "img": "favicon.ico",
-            "hash": "039962373b35960ef2bb5fbbe3856c0859306bf7"
+            "img": "favicon.ico"
         },
         {
             "title": "Medium",
             "domain": "medium.com",
-            "img": "favicon.ico",
-            "hash": "9472c58523484a03a266ed3de73d7dab150e585a"
+            "img": "favicon.ico"
         },
         {
             "title": "Mega Upload",
             "domain": "mega.nz",
-            "img": "favicon.ico",
-            "hash": "f014620d35787fcfdef193c20bb383f5655b9e1e"
+            "img": "favicon.ico"
         },
         {
             "title": "Messenger",
             "domain": "messenger.com",
-            "img": "favicon.ico",
-            "hash": "f93262e997539b566510ff749c97ca8a4768d8c9"
+            "img": "favicon.ico"
         },
         {
             "title": "Microsoft",
             "domain": "microsoft.com",
-            "img": "favicon.ico",
-            "hash": "e08ce1a144eceae0c3c2ea7a9d6fbc5658f24ce5"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Minecraft",
+            "domain": "minecraft.net",
+            "img": "favicon.ico"
         },
         {
             "title": "Mozilla",
             "domain": "mozilla.com",
-            "img": "favicon.ico",
-            "hash": "6bcb460bf314e1a5a74c8cd37a2c10526f8b133b"
+            "img": "favicon.ico"
         },
         {
             "title": "Musixmatch",
             "domain": "musixmatch.com",
-            "img": "favicon.ico",
-            "hash": "7b739ae8ac26cbe187acfd6912b3fb4866d19b5d"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "NASA",
+            "domain": "nasa.gov",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "NVidia",
+            "domain": "nvidia.com",
+            "img": "favicon.ico"
         },
         {
             "title": "National Geographic",
             "domain": "nationalgeographic.com",
-            "img": "favicon.ico",
-            "hash": "d5f53b2fe318edbb2fde93d01b39ad3d357ed846"
+            "img": "favicon.ico"
         },
         {
             "title": "Netflix",
             "domain": "netflix.com",
-            "img": "favicon.ico",
-            "hash": "931e18dfc6e7d950dc2f2bbdfe31e1ea720acf7c"
+            "img": "favicon.ico"
         },
         {
             "title": "New York Times",
             "domain": "nytimes.com",
-            "img": "favicon.ico",
-            "hash": "1965f56573cfa15ed817f84bf2248be1e2feee32"
+            "img": "favicon.ico"
         },
         {
             "title": "Nintendo",
             "domain": "nintendo.com",
-            "img": "favicon.ico",
-            "hash": "71041fa9c60a3589f49270b992acb80ec09f1f19"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "NordVPN",
+            "domain": "nordvpn.com",
+            "img": "wp-content/themes/nordvpn-bootstrap/build/1490706286/images/favicons/favicon-16x16.png"
+        },
+        {
+            "title": "OpenVPN",
+            "domain": "openvpn.net",
+            "img": "favicon.ico"
         },
         {
             "title": "Opera",
             "domain": "opera.com",
-            "img": "favicon.ico",
-            "hash": "1fcfa5ac09b8355ccae4ae404b783e1208eddf3f"
+            "img": "favicon.ico"
         },
         {
             "title": "Pandora",
             "domain": "pandora.com",
-            "img": "favicon.ico",
-            "hash": "32a90fde15b206cec5a4d7f2db368fa000bb4d27"
+            "img": "favicon.ico"
         },
         {
             "title": "Paypal",
             "domain": "paypal.com",
-            "img": "favicon.ico",
-            "hash": "ff60afd001e924511e9b6f12c57b6bf26821fc1e"
+            "img": "favicon.ico"
         },
         {
             "title": "Pinterest",
             "domain": "pinterest.com",
-            "img": "favicon.ico",
-            "hash": "1eba0b461d1305db763eb7e0383988dddcead980"
+            "img": "favicon.ico"
         },
         {
             "title": "Pornhub",
             "domain": "pornhub.com",
-            "img": "favicon.ico",
-            "hash": "7430ff53470894ca5d22d074c1569efc3b72b95d"
+            "img": "favicon.ico"
         },
         {
             "title": "Pushbullet",
             "domain": "pushbullet.com",
-            "img": "img/header/logo.png",
-            "hash": "61a2de868815b932f081253da21895bc62a41eca"
+            "img": "img/header/logo.png"
         },
         {
             "title": "QQ",
             "domain": "qq.com",
-            "img": "favicon.ico",
-            "hash": "3cc89c53a54562d5a745ab1628dd74b8e1f785ee"
+            "img": "favicon.ico"
         },
         {
             "title": "Quora",
             "domain": "quora.com",
-            "img": "favicon.ico",
-            "hash": "d93a7b8136879ed6c2becb12a2633ae60f5e3e4d"
+            "img": "favicon.ico"
         },
         {
             "title": "Rarbg",
             "domain": "rarbg.to",
-            "img": "favicon.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Raspberry Pi Foundation",
+            "domain": "raspberrypi.org",
+            "img": "favicon.ico"
         },
         {
             "title": "Reddit",
             "domain": "redditstatic.com",
-            "img": "icon.png",
-            "hash": "1bddd29b24acde7144bb7d3dd81afafe0e8595f5"
+            "img": "icon.png"
         },
         {
             "title": "Rockstar Games",
             "domain": "rockstargames.com",
-            "img": "favicon.ico",
-            "hash": "742503df6fdd733e6256698bdd641274929fa4b6"
+            "img": "favicon.ico"
         },
         {
             "title": "Samsung",
             "domain": "~cdn.samsung.com",
-            "img": "etc/designs/smg/global/imgs/favicon.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "etc/designs/smg/global/imgs/favicon.ico"
         },
         {
             "title": "Skype",
             "domain": "skype.com",
-            "img": "favicon.ico",
-            "hash": "16092acff29e52a9b1d221e71080ed542675878c"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Slack",
+            "domain": "slack.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Snapchat",
             "domain": "snapchat.com",
-            "img": "favicon.ico",
-            "hash": "3536d48359166e005e16c5463f987097e369bb5a"
+            "img": "favicon.ico"
         },
         {
             "title": "Sony",
             "domain": "sony.com",
-            "img": "favicon.ico",
-            "hash": "ed32588aa450f360143aa7fd10240723908fb4f6"
+            "img": "favicon.ico"
         },
         {
             "title": "Soundcloud",
             "domain": "~m.soundcloud.com",
-            "img": "assets/images/sc-icons/favicon-9c79c761.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "assets/images/sc-icons/favicon-9c79c761.ico"
         },
         {
             "title": "Sourceforge",
             "domain": "sourceforge.net",
-            "img": "favicon.ico",
-            "hash": "a415b03af67d83eb39ea37fa379262348a5c1f83"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "SpaceX",
+            "domain": "spacex.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Spankbang",
             "domain": "spankbang.com",
-            "img": "favicon.ico",
-            "hash": "a1b59f7b2569e097eb2a18c255637607bf67ac71"
+            "img": "favicon.ico"
         },
         {
             "title": "Spotify",
             "domain": "spotify.com",
-            "img": "favicon.ico",
-            "hash": "70a0e66f27ae1b004628117d4d9e9b4110f91651"
+            "img": "favicon.ico"
         },
         {
             "title": "Stack Overflow",
             "domain": "stackoverflow.com",
-            "img": "favicon.ico",
-            "hash": "4f32ecc8f43d0986b9c6ce9f37999e86c0b829ef"
+            "img": "favicon.ico"
         },
         {
             "title": "Steam",
             "domain": "steampowered.com",
-            "img": "favicon.ico",
-            "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+            "img": "favicon.ico"
         },
         {
             "title": "Steam Community",
             "domain": "steamcommunity.com",
-            "img": "favicon.ico",
-            "hash": "57477c2180cc7b6b9e3064a46cf8da4ad7555540"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "SuperUser",
+            "domain": "superuser.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Taobao",
             "domain": "taobao.com",
-            "img": "favicon.ico",
-            "hash": "af32d2a4d2213d734cca7ddf0ad309ba0fd2a3b8"
+            "img": "favicon.ico"
         },
         {
             "title": "Telegram",
             "domain": "telegram.org",
-            "img": "favicon.ico",
-            "hash": "a5b2c928a64ea5240ec2ea18c5ba0b2ffad09910"
+            "img": "favicon.ico"
         },
         {
             "title": "The Guardian",
             "domain": "theguardian.com",
-            "img": "favicon.ico",
-            "hash": "fb1d8cb8d0d5bd3cb9b479c947bb8a3d9d2c5bc7"
+            "img": "favicon.ico"
         },
         {
             "title": "The Piratebay",
             "domain": "thepiratebay.org",
-            "img": "favicon.ico",
-            "hash": "fc0e3d17c0d17865a24f3bbb3afd8a1ed0bbea83"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Tor Project",
+            "domain": "torproject.org",
+            "img": "favicon.ico"
         },
         {
             "title": "Tumblr",
             "domain": "tumblr.com",
-            "img": "favicon.ico",
-            "hash": "3bb43725db15ab14ba1fad3a78969b016c179b6a"
+            "img": "favicon.ico"
         },
         {
             "title": "Twitch",
             "domain": "twitch.tv",
-            "img": "favicon.ico",
-            "hash": "5400ffdd97dc61d03b8a5939286db0da4d328a97"
+            "img": "favicon.ico"
         },
         {
             "title": "Twitter",
             "domain": "twitter.com",
-            "img": "favicon.ico",
-            "hash": "eee14e8a36b0512c12ba26c0516b4553618dea36"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "UK Government",
+            "domain": "gov.uk",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "US Government",
+            "domain": "whitehouse.gov",
+            "img": "apology_objects/favicons/favicon-16x16.png"
         },
         {
             "title": "VK",
             "domain": "vk.com",
-            "img": "favicon.ico",
-            "hash": "61a7848bb12959b841105da1685888d48cbb072d"
+            "img": "favicon.ico"
         },
         {
             "title": "Valve Corporation",
             "domain": "valvesoftware.com",
-            "img": "images/favicon.ico",
-            "hash": "a0c413b7d855c807ce5bb6f43a8aa84efea4854b"
+            "img": "images/favicon.ico"
         },
         {
             "title": "Vimeo",
             "domain": "~f.vimeocdn.com",
-            "img": "images_v6/favicon.ico",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "img": "images_v6/favicon.ico"
+        },
+        {
+            "title": "Vivaldi Browser",
+            "domain": "vivaldi.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Voat",
+            "domain": "voat.co",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "W3Schools",
+            "domain": "w3schools.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Whatsapp",
             "domain": "whatsapp.com",
-            "img": "favicon.png",
-            "hash": "f72bf6750892a25cc40b590bafb2038109bd77ad"
+            "img": "favicon.png"
         },
         {
             "title": "Wikia",
             "domain": "wikia.com",
-            "img": "favicon.ico",
-            "hash": "ff544175541c51fbe7c216f4ce42de83b224b966"
+            "img": "favicon.ico"
         },
         {
             "title": "Wikileaks",
             "domain": "wikileaks.org",
-            "img": "IMG/favicon.ico",
-            "hash": "7b03e69ff5976a991347fa0eb25c7493d5688054"
+            "img": "IMG/favicon.ico"
         },
         {
             "title": "Wikipedia",
             "domain": "wikipedia.org",
-            "img": "favicon.ico",
-            "hash": "b37ac89616b9e4c01a35991af59fe6b63e41a48e"
+            "img": "favicon.ico"
+        },
+        {
+            "title": "World of Warcraft",
+            "domain": "worldofwarcraft.com",
+            "img": "favicon.ico"
         },
         {
             "title": "XHamster",
             "domain": "xhamster.com",
-            "img": "favicon.ico",
-            "hash": "cb21430694b6ebc768005e97c389806126f60c82"
+            "img": "favicon.ico"
         },
         {
             "title": "Yahoo",
             "domain": "yahoo.com",
-            "img": "favicon.ico",
-            "hash": "6ee48a6f912384d8f9cce8bf7931bed779dc1d9d"
+            "img": "favicon.ico"
         },
         {
             "title": "Yandex",
             "domain": "yandex.com",
-            "img": "favicon.ico",
-            "hash": "ac14e377a50e3e4e7dd773929f96505583134164"
+            "img": "favicon.ico"
         },
         {
             "title": "Youporn",
             "domain": "youporn.com",
-            "img": "favicon.ico",
-            "hash": "da6afd9dc7a2b59a5cc2c91992f96722a5377620"
+            "img": "favicon.ico"
         },
         {
             "title": "Youtube",
             "domain": "youtube.com",
-            "img": "favicon.ico",
-            "hash": "0f926f925453097124dbb534296c1958937de453"
+            "img": "favicon.ico"
         }
     ]
 }
