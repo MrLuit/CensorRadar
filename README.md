@@ -11,7 +11,7 @@ Go to the website and click 'Start scan'. You will see all blocked domains (if t
 
 ### Offline
 
-If you want to use the program offline, keep in mind that you can only upload it to your own webserver so really running offline won't work. This is because offline AJAX requests are not allowed. Also keep in mind that if you change data you also need to change the SRI hash and the built-in sha256 hash (see [contributing](https://github.com/MrLuit/CensorRadar/blob/master/README.md#Contributing)).
+If you want to use the website locally, keep in mind that offline AJAX requests are not allowed. If you want to change the domains.json you need to find a different way to get the domains.json through local filesystem.
 
 ## How does it work
 
@@ -43,7 +43,6 @@ When adding a new domain to domains.json, please follow this checklist:
 * Don't put `http://` or `https://` in the domain and **only** put the path to the image in img without leading `/`
 * Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website.
 * When using a subdomain like `assets.github.com`, put a `~` before the domain so the parser recognizes it's a subdomain and doesn't put `www.` in front of it
-* Make sure all the hashes are correct (verify on [srihash.org](https://www.srihash.org/) and the built-in sha256 using sha256.min.js and `sha256(JSON.stringify(data)`). If you need help just create a pull request without the hashes.
 
 You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls) with all these requirements.
 
