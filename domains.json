@@ -116,6 +116,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Chinese Government",
+            "domain": "gov.cn",
+            "img": "govweb/xhtml/favicon.ico"
+        },
+        {
             "title": "Cisco",
             "domain": "cisco.com",
             "img": "favicon.ico"
@@ -214,6 +219,11 @@
             "title": "Fox News",
             "domain": "foxnews.com",
             "img": "favicon.ico"
+        },
+        {
+            "title": "German Government",
+            "domain": "bundesregierung.de",
+            "img": "SiteGlobals/StyleBundles/Bilder/favicon.ico?__blob=normal&v=2"
         },
         {
             "title": "GitLab",
@@ -593,6 +603,11 @@
         {
             "title": "Tumblr",
             "domain": "tumblr.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Turkish Government",
+            "domain": "mfa.gov.tr",
             "img": "favicon.ico"
         },
         {
