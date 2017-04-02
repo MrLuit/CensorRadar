@@ -116,6 +116,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Chinese Government",
+            "domain": "gov.cn",
+            "img": "govweb/xhtml/favicon.ico"
+        },
+        {
             "title": "Cisco",
             "domain": "cisco.com",
             "img": "favicon.ico"
@@ -214,6 +219,11 @@
             "title": "Fox News",
             "domain": "foxnews.com",
             "img": "favicon.ico"
+        },
+        {
+            "title": "German Government",
+            "domain": "bundesregierung.de",
+            "img": "SiteGlobals/StyleBundles/Bilder/favicon.ico?__blob=normal&v=2"
         },
         {
             "title": "GitLab",
@@ -596,6 +606,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Turkish Government",
+            "domain": "mfa.gov.tr",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Twitch",
             "domain": "twitch.tv",
             "img": "favicon.ico"
@@ -693,26 +708,6 @@
         {
             "title": "Youtube",
             "domain": "youtube.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "XVideos",
-            "domain": "xvideos.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "Hosteurope.de (To test if German domains are blocked)",
-            "domain": "https://www.hosteurope.de/",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "Windowsazure.cn (To test if Chinese domains are blocked)",
-            "domain": "http://www.windowsazure.cn/",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "Isimtescil.net (To test if Eastern European domains are blocked)",
-            "domain": "http://www.isimtescil.net/",
             "img": "favicon.ico"
         }
     ]
