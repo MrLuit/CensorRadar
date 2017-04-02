@@ -699,6 +699,21 @@
             "title": "XVideos",
             "domain": "xvideos.com",
             "img": "favicon.ico"
+        },
+        {
+            "title": "Hosteurope.de (To test if German domains are blocked)",
+            "domain": "https://www.hosteurope.de/",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Windowsazure.cn (To test if Chinese domains are blocked)",
+            "domain": "http://www.windowsazure.cn/",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Isimtescil.net (To test if Eastern European domains are blocked)",
+            "domain": "http://www.isimtescil.net/",
+            "img": "favicon.ico"
         }
     ]
 }
