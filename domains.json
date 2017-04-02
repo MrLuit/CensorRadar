@@ -694,6 +694,11 @@
             "title": "Youtube",
             "domain": "youtube.com",
             "img": "favicon.ico"
+        },
+        {
+            "title": "XVideos",
+            "domain": "xvideos.com",
+            "img": "favicon.ico"
         }
     ]
 }
