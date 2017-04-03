@@ -7,9 +7,7 @@
     padding-top: 8%;
     margin: auto;
 }
-.failedresults,
-.successresults,
-.loadingbar {
+.failedresults,.successresults,.loadingbar {
     text-align: center;
     padding-top: 4%;
     display: none;
@@ -24,19 +22,25 @@
 .right {
     display: inline;
     float: right;
-    font-size: 11pt;
+    font-size: 13pt;
 }
 .failed {
     color: red;
+}
+.remove {
+    color: #B03060;
+}
+.warning {
+    color: #dbba00;
+}
+h4 {
+    color: green;
 }
 noscript {
 	color: red;
 	font-weight: bold;
 	font-size: 15px;
 	margin-top: 1%;
-}
-h4 {
-    color: green;
 }
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out

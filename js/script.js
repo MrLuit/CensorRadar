@@ -3,7 +3,7 @@ $(document).ready(function() {
         $(".scan").removeClass("disabled");
         $(".scan").click(function() {
             var domains = data.domains;
-            var faileddomains = [];
+            var faileddomains = {};
             var cnt = 0;
             $(".count").html("0 / " + domains.length);
             $(".scanbutton").hide();
@@ -15,25 +15,32 @@ $(document).ready(function() {
                 image.onerror = function() {
                     cnt++;
                     $(".count").html(cnt + " / " + domains.length);
-                    faileddomains.push({
-                        "title": this.getAttribute("title"),
-                        "domain": this.getAttribute("domain"),
-                        "img": this.src
-                    });
-                    $(".bar").width(((cnt / domains.length) * 100) + '%');
-                    $(".failedresults").fadeIn(500);
-                    if (faileddomains.length == 1) {
-                        $(".failed").html(faileddomains.length + ' domain could not be reached');
-                    } else {
-                        $(".failed").html(faileddomains.length + ' domains could not be reached');
-                    }
-                    if (cnt == domains.length) {
-                        $(".loadingbar").fadeOut(500);
-                    }
-                    new_row = $("<tr><td>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain + '/' + data.img + ">" + data.domain + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
-                    new_row.hide();
-                    $(".table tbody").prepend(new_row);
-                    new_row.fadeIn(200);
+					$.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
+						console.log("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src));
+						faileddomains[data.title] = parseInt(online);
+					}.bind(this)).fail(function() {
+						faileddomains[data.title] = 2;
+					}.bind(this)).always(function() {
+						$(".bar").width(((cnt / domains.length) * 100) + '%');
+						$(".failedresults").fadeIn(500);
+						if (Object.keys(faileddomains).length == 1) {
+							$(".failed").html(Object.keys(faileddomains).length + ' domain could not be reached');
+						} else {
+							$(".failed").html(Object.keys(faileddomains).length + ' domains could not be reached');
+						}
+						if (cnt == domains.length) {
+							$(".loadingbar").fadeOut(500);
+						}
+						if(faileddomains[data.title] == 0) {
+						new_row = $("<tr><td><i class='warning circle icon'></i>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached on both server and client. This probably means the website is offline.','warning');\"><i class='info circle icon'></i></a></p></td></tr>");
+						}
+						else if(faileddomains[data.title] == 1 || faileddomains[data.title] == 2) {
+						new_row = $("<tr><td><i class='remove circle icon'></i> " + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
+						}
+						new_row.hide();
+						$(".table tbody").prepend(new_row);
+						new_row.fadeIn(200);
+					})
                 };
 
                 image.onload = function() {
