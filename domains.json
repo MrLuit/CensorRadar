@@ -1,3 +1,4 @@
+
 {
     "domains": [
         {
@@ -56,8 +57,18 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Amazon AWS",
+            "domain": "aws.amazon.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Android",
             "domain": "android.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Apache",
+            "domain": "apache.org",
             "img": "favicon.ico"
         },
         {
@@ -116,6 +127,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Canadian Government",
+            "domain": "canada.ca",
+            "img": "etc/designs/canada/wet-boew/assets/favicon.ico"
+        },
+        {
             "title": "Chinese Government",
             "domain": "gov.cn",
             "img": "govweb/xhtml/favicon.ico"
@@ -131,6 +147,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Cnet",
+            "domain": "cnet.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Comedy Central",
             "domain": "cc.com",
             "img": "favicon.ico"
@@ -138,6 +159,11 @@
         {
             "title": "Craigslist",
             "domain": "craigslist.org",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Creative Commons",
+            "domain": "creativecommons.org",
             "img": "favicon.ico"
         },
         {
@@ -221,8 +247,23 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Forbes",
+            "domain": "forbes.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Fox News",
             "domain": "foxnews.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "French Government",
+            "domain": "gouvernement.fr",
+            "img": "sites/default/files/favicon.ico"
+        },
+        {
+            "title": "GNU",
+            "domain": "gnu.org",
             "img": "favicon.ico"
         },
         {
@@ -248,6 +289,26 @@
         {
             "title": "Google",
             "domain": "google.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Google Maps",
+            "domain": "~maps.google.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Google URL Shortener",
+            "domain": "goo.gl",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Google+",
+            "domain": "~plus.google.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Gravatar",
+            "domain": "gravatar.com",
             "img": "favicon.ico"
         },
         {
@@ -314,6 +375,16 @@
             "title": "Internet Archive",
             "domain": "archive.org",
             "img": "favicon.ico"
+        },
+        {
+            "title": "Issuu",
+            "domain": "issuu.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Japanese Government",
+            "domain": "japan.go.jp",
+            "img": "_src/7795869/favicon.ico"
         },
         {
             "title": "Kickass Torrents",
@@ -448,7 +519,12 @@
         {
             "title": "NordVPN",
             "domain": "nordvpn.com",
-            "img": "wp-content/themes/nordvpn-bootstrap/build/1490706286/images/favicons/favicon-16x16.png"
+            "img": "wp-content/themes/nordvpn-bootstrap/build/1491227688/images/favicons/favicon-16x16.png"
+        },
+        {
+            "title": "North Korean Government",
+            "domain": "korea-dpr.com",
+            "img": "favicon.ico"
         },
         {
             "title": "OpenVPN",
@@ -458,6 +534,11 @@
         {
             "title": "Opera",
             "domain": "opera.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "PHP",
+            "domain": "php.net",
             "img": "favicon.ico"
         },
         {
@@ -473,6 +554,11 @@
         {
             "title": "Pinterest",
             "domain": "pinterest.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Plex",
+            "domain": "~plex.tv",
             "img": "favicon.ico"
         },
         {
@@ -509,6 +595,11 @@
             "title": "Reddit",
             "domain": "redditstatic.com",
             "img": "icon.png"
+        },
+        {
+            "title": "Reuters",
+            "domain": "reuters.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Rockstar Games",
@@ -586,6 +677,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "SurveyMonkey",
+            "domain": "surveymonkey.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Taobao",
             "domain": "taobao.com",
             "img": "favicon.ico"
@@ -603,6 +699,11 @@
         {
             "title": "The Piratebay",
             "domain": "thepiratebay.org",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "TinyURL",
+            "domain": "tinyurl.com",
             "img": "favicon.ico"
         },
         {
@@ -666,8 +767,23 @@
             "img": "favicon.ico"
         },
         {
+            "title": "W3C",
+            "domain": "w3.org",
+            "img": "favicon.ico"
+        },
+        {
             "title": "W3Schools",
             "domain": "w3schools.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Wall Street Journal",
+            "domain": "wsj.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Weebly",
+            "domain": "weebly.com",
             "img": "favicon.ico"
         },
         {
@@ -691,6 +807,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Wix",
+            "domain": "wix.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "World of Warcraft",
             "domain": "worldofwarcraft.com",
             "img": "favicon.ico"
@@ -698,11 +819,6 @@
         {
             "title": "XHamster",
             "domain": "xhamster.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "XVideos",
-            "domain": "xvideos.com",
             "img": "favicon.ico"
         },
         {
@@ -722,7 +838,17 @@
         },
         {
             "title": "Youtube",
-            "domain": "youtube.com",
+            "domain": "~youtube.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Youtube URL Shortener",
+            "domain": "youtu.be",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "iTunes",
+            "domain": "~itunes.apple.com",
             "img": "favicon.ico"
         }
     ]
