@@ -15,8 +15,8 @@ $(document).ready(function() {
                 image.onerror = function() {
                     cnt++;
                     $(".count").html(cnt + " / " + domains.length);
+					/* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. */
 					$.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
-						console.log("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src));
 						faileddomains[data.title] = parseInt(online);
 					}.bind(this)).fail(function() {
 						faileddomains[data.title] = 2;
