@@ -206,6 +206,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Facepunch",
+            "domain": "facepunch.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Fiverr",
             "domain": "fiverr.com",
             "img": "favicon.ico"
@@ -323,6 +328,11 @@
         {
             "title": "LeakForums",
             "domain": "leakforums.net",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Letterboxd",
+            "domain": "letterboxd.com",
             "img": "favicon.ico"
         },
         {
@@ -688,6 +698,11 @@
         {
             "title": "XHamster",
             "domain": "xhamster.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "XVideos",
+            "domain": "xvideos.com",
             "img": "favicon.ico"
         },
         {
