@@ -838,12 +838,12 @@
         },
         {
             "title": "Youtube",
-            "domain": "~youtube.com",
+            "domain": "youtube.com",
             "img": "favicon.ico"
         },
         {
             "title": "Youtube URL Shortener",
-            "domain": "youtu.be",
+            "domain": "~youtu.be",
             "img": "favicon.ico"
         },
         {
