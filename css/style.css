@@ -4,7 +4,7 @@
 }
 .scanbutton {
     text-align: center;
-    padding-top: 8%;
+    padding-top: 5%;
     margin: auto;
 }
 .failedresults,.successresults,.loadingbar {
@@ -46,9 +46,10 @@ noscript {
     position: absolute;
     bottom: 0;
     width: 100%;
+	text-align: center;
 }
 .footertext {
-	margin: 0 0 0.4em;
+    margin: 0 0 0.4em;
 }
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out
