@@ -29,7 +29,6 @@ Javascript creates a new image with an image on the domain we want to check as s
 * [jQuery 3.2.0](https://github.com/jquery/jquery/tree/3.2.0)
 * [Semantic-UI 2.2.9](https://github.com/Semantic-Org/Semantic-UI/tree/2.2.9)
 * [SweetAlert2 6.4.4](https://github.com/limonte/sweetalert2/tree/v6.4.4)
-* [JS-SHA256 0.5.0](https://github.com/emn178/js-sha256)
 * [Github Corners](https://github.com/tholman/github-corners)
 
 ## API

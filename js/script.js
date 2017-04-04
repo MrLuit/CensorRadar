@@ -15,32 +15,31 @@ $(document).ready(function() {
                 image.onerror = function() {
                     cnt++;
                     $(".count").html(cnt + " / " + domains.length);
-					/* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. Source code: https://pastebin.com/bsGuBHxt */
-					$.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
-						faileddomains[data.title] = parseInt(online);
-					}.bind(this)).fail(function() {
-						faileddomains[data.title] = 2;
-					}.bind(this)).always(function() {
-						$(".bar").width(((cnt / domains.length) * 100) + '%');
-						$(".failedresults").fadeIn(500);
-						if (Object.keys(faileddomains).length == 1) {
-							$(".failed").html(Object.keys(faileddomains).length + ' domain could not be reached');
-						} else {
-							$(".failed").html(Object.keys(faileddomains).length + ' domains could not be reached');
-						}
-						if (cnt == domains.length) {
-							$(".loadingbar").fadeOut(500);
-						}
-						if(faileddomains[data.title] == 0) {
-						new_row = $("<tr><td><i class='warning circle icon'></i>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached on both server and client. This probably means the website is offline.','warning');\"><i class='info circle icon'></i></a></p></td></tr>");
-						}
-						else if(faileddomains[data.title] == 1 || faileddomains[data.title] == 2) {
-						new_row = $("<tr><td><i class='remove circle icon'></i> " + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
-						}
-						new_row.hide();
-						$(".table tbody").prepend(new_row);
-						new_row.fadeIn(200);
-					})
+                    /* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. Source code: https://pastebin.com/bsGuBHxt */
+                    $.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
+                        faileddomains[data.title] = parseInt(online);
+                    }.bind(this)).fail(function() {
+                        faileddomains[data.title] = 2;
+                    }.bind(this)).always(function() {
+                        $(".bar").width(((cnt / domains.length) * 100) + '%');
+                        $(".failedresults").fadeIn(500);
+                        if (Object.keys(faileddomains).length == 1) {
+                            $(".failed").html(Object.keys(faileddomains).length + ' domain could not be reached');
+                        } else {
+                            $(".failed").html(Object.keys(faileddomains).length + ' domains could not be reached');
+                        }
+                        if (cnt == domains.length) {
+                            $(".loadingbar").fadeOut(500);
+                        }
+                        if (faileddomains[data.title] == 0) {
+                            new_row = $("<tr><td><i class='warning circle icon'></i>" + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached on both server and client. This probably means the website is offline.','warning');\"><i class='info circle icon'></i></a></p></td></tr>");
+                        } else if (faileddomains[data.title] == 1 || faileddomains[data.title] == 2) {
+                            new_row = $("<tr><td><i class='remove circle icon'></i> " + data.title + "<p class='right'><a href='javascript:void(0);' onclick=\"swal('" + data.title + "','<a target=_blank href=http://www." + data.domain.replace("~", "") + '/' + data.img + ">" + data.domain.replace("~", "") + "</a> could not be reached','error');\"><i class='info circle icon'></i></a></p></td></tr>");
+                        }
+                        new_row.hide();
+                        $(".table tbody").prepend(new_row);
+                        new_row.fadeIn(200);
+                    })
                 };
 
                 image.onload = function() {
