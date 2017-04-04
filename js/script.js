@@ -15,7 +15,7 @@ $(document).ready(function() {
                 image.onerror = function() {
                     cnt++;
                     $(".count").html(cnt + " / " + domains.length);
-					/* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. */
+					/* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. Source code: https://pastebin.com/bsGuBHxt */
 					$.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
 						faileddomains[data.title] = parseInt(online);
 					}.bind(this)).fail(function() {
@@ -47,7 +47,7 @@ $(document).ready(function() {
                     cnt++;
                     $(".count").html(cnt + " / " + domains.length);
                     $(".bar").width(((cnt / domains.length) * 100) + '%');
-                    if (cnt == domains.length && faileddomains.length == 0) {
+                    if (cnt == domains.length && Object.keys(faileddomains).length == 0) {
                         $(".loadingbar").fadeOut(500);
                         $(".successresults").fadeIn(500);
                     } else if (cnt == domains.length) {
