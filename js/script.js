@@ -1,6 +1,8 @@
 $(document).ready(function() {
+	$(".footertext").html("CensorRadar " + new Date().getFullYear());
     $.get("https://mrluit.github.io/CensorRadar/domains.json", function(data) {
         $(".scan").removeClass("disabled");
+		$(".infotext").html($(".infotext").html().replace("list of domains","list of <b>" + data.domains.length + "</b> domains"));
         $(".scan").click(function() {
             var domains = data.domains;
             var faileddomains = {};

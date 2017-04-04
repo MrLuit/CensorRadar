@@ -42,6 +42,14 @@ noscript {
 	font-size: 15px;
 	margin-top: 1%;
 }
+.ui.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.footertext {
+	margin: 0 0 0.4em;
+}
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out
 }

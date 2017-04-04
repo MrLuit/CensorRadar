@@ -11,7 +11,7 @@ Go to the website and click 'Start scan'. You will see all blocked domains (if t
 
 ### Offline
 
-If you want to use the website locally, keep in mind that offline AJAX requests are not allowed. If you want to change the domains.json you need to find a different way to get the domains.json through local filesystem.
+If you want to use the website locally, just [download](https://github.com/MrLuit/CensorRadar/archive/master.zip) the website and open the index.html in one of the compatible browsers. Keep in mind that offline AJAX requests are not allowed so if you want to change the domains.json you need to find a different way to get the domains.json through local filesystem.
 
 ## How does it work
 
