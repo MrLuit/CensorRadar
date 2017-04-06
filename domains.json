@@ -21,16 +21,6 @@
             "img": "favicon.ico"
         },
         {
-            "title": "AMD",
-            "domain": "amd.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "AOL",
-            "domain": "aol.com",
-            "img": "favicon.ico"
-        },
-        {
             "title": "Adf.ly",
             "domain": "adf.ly",
             "img": "favicon.ico"
@@ -61,6 +51,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "AMD",
+            "domain": "amd.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "AnchorFree VPN",
             "domain": "anchorfree.com",
             "img": "favicon.ico"
@@ -68,6 +63,11 @@
         {
             "title": "Android",
             "domain": "android.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "AOL",
+            "domain": "aol.com",
             "img": "favicon.ico"
         },
         {
@@ -86,13 +86,13 @@
             "img": "favicon.ico"
         },
         {
-            "title": "BBC",
-            "domain": "bbc.com",
+            "title": "Baidu",
+            "domain": "amazon.com",
             "img": "favicon.ico"
         },
         {
-            "title": "Baidu",
-            "domain": "amazon.com",
+            "title": "BBC",
+            "domain": "bbc.com",
             "img": "favicon.ico"
         },
         {
@@ -131,11 +131,6 @@
             "img": "static-assets/img/favicon.ico"
         },
         {
-            "title": "CNN",
-            "domain": "cnn.com",
-            "img": "favicon.ico"
-        },
-        {
             "title": "Canadian Government",
             "domain": "canada.ca",
             "img": "etc/designs/canada/wet-boew/assets/favicon.ico"
@@ -158,6 +153,11 @@
         {
             "title": "Cnet",
             "domain": "cnet.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "CNN",
+            "domain": "cnn.com",
             "img": "favicon.ico"
         },
         {
@@ -291,14 +291,14 @@
             "img": "sites/default/files/favicon.ico"
         },
         {
-            "title": "GNU",
-            "domain": "gnu.org",
-            "img": "favicon.ico"
-        },
-        {
             "title": "German Government",
             "domain": "bundesregierung.de",
             "img": "SiteGlobals/StyleBundles/Bilder/favicon.ico?__blob=normal&v=2"
+        },
+        {
+            "title": "Github",
+            "domain": "github.com",
+            "img": "favicon.ico"
         },
         {
             "title": "GitLab",
@@ -306,8 +306,8 @@
             "img": "favicon.ico"
         },
         {
-            "title": "Github",
-            "domain": "github.com",
+            "title": "GNU",
+            "domain": "gnu.org",
             "img": "favicon.ico"
         },
         {
@@ -416,9 +416,24 @@
             "img": "favicon.ico"
         },
         {
+            "title": "iTunes",
+            "domain": "~itunes.apple.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Japanese Government",
             "domain": "japan.go.jp",
             "img": "_src/7795869/favicon.ico"
+        },
+        {
+            "title": "Kahoot Client",
+            "domain": "kahoot.it",
+            "img": "shared/theme/kahoot/img/icons/favicon.ico"
+        },
+        {
+            "title": "Kahoot Server",
+            "domain": "getkahoot.com",
+            "img": "favicon.ico"
         },
         {
             "title": "KeepSolid VPN",
@@ -471,16 +486,6 @@
             "img": "deploy/website/production/e5d1a53/assets/favicon.ico"
         },
         {
-            "title": "MSN",
-            "domain": "msn.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "MTV",
-            "domain": "mtv.com",
-            "img": "favicon.ico"
-        },
-        {
             "title": "Mashable",
             "domain": "mashable.com",
             "img": "favicon.ico"
@@ -521,6 +526,16 @@
             "img": "favicon.ico"
         },
         {
+            "title": "MSN",
+            "domain": "msn.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "MTV",
+            "domain": "mtv.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Musixmatch",
             "domain": "musixmatch.com",
             "img": "favicon.ico"
@@ -528,11 +543,6 @@
         {
             "title": "NASA",
             "domain": "nasa.gov",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "NVidia",
-            "domain": "nvidia.com",
             "img": "favicon.ico"
         },
         {
@@ -566,6 +576,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "NVidia",
+            "domain": "nvidia.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "OpenVPN",
             "domain": "openvpn.net",
             "img": "favicon.ico"
@@ -576,11 +591,6 @@
             "img": "favicon.ico"
         },
         {
-            "title": "PHP",
-            "domain": "php.net",
-            "img": "favicon.ico"
-        },
-        {
             "title": "Pandora",
             "domain": "pandora.com",
             "img": "favicon.ico"
@@ -588,6 +598,11 @@
         {
             "title": "Paypal",
             "domain": "paypal.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "PHP",
+            "domain": "php.net",
             "img": "favicon.ico"
         },
         {
@@ -747,7 +762,7 @@
         },
         {
             "title": "Telegram",
-            "domain": "telegram.org",
+            "domain": "~telegram.org",
             "img": "favicon.ico"
         },
         {
@@ -806,16 +821,6 @@
             "img": "apology_objects/favicons/favicon-16x16.png"
         },
         {
-            "title": "USA Today",
-            "domain": "usatoday.com",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "VK",
-            "domain": "vk.com",
-            "img": "favicon.ico"
-        },
-        {
             "title": "Valve Corporation",
             "domain": "valvesoftware.com",
             "img": "images/favicon.ico"
@@ -828,6 +833,11 @@
         {
             "title": "Vivaldi Browser",
             "domain": "vivaldi.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "VK",
+            "domain": "vk.com",
             "img": "favicon.ico"
         },
         {
@@ -918,11 +928,6 @@
         {
             "title": "Youtube URL Shortener",
             "domain": "~youtu.be",
-            "img": "favicon.ico"
-        },
-        {
-            "title": "iTunes",
-            "domain": "~itunes.apple.com",
             "img": "favicon.ico"
         }
     ]
