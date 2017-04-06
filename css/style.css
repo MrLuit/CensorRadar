@@ -48,9 +48,6 @@ noscript {
     width: 100%;
 	text-align: center;
 }
-.footertext {
-    margin: 0 0 0.4em;
-}
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out
 }
@@ -100,9 +97,6 @@ noscript {
     .right {
         font-size: 15pt;
     }
-	.footertext {
-        display: none;
-	}
     svg {
         width: 55px;
         height: 55px;

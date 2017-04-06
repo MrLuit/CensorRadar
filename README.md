@@ -11,7 +11,7 @@ Go to the website and click 'Start scan'. You will see all blocked domains (if t
 
 ### Offline
 
-If you want to use the website locally, just [download](https://github.com/MrLuit/CensorRadar/archive/master.zip) the website and open the index.html in one of the compatible browsers. Keep in mind that offline AJAX requests are not allowed so if you want to change the domains.json you need to find a different way to get the domains.json through local filesystem.
+If you want to use the website locally, just [download](https://github.com/MrLuit/CensorRadar/archive/master.zip) the website and open the index.html in one of the compatible browsers. Keep in mind that by default browsers won't let you access files with files so you have to enable that or find another way to access your domains.json, for example hosting domain.json online or launching chrome with `--allow-file-access-from-files`.
 
 ## How does it work
 
@@ -41,7 +41,7 @@ When adding a new domain to domains.json, please follow this checklist:
 * The website is a popular international website and has an accesible image on the primary domain (not a different CDN server)
 * Don't put `http://` or `https://` in the domain and **only** put the path to the image in img without leading `/`
 * Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website.
-* When using a subdomain like `assets.github.com`, put a `~` before the domain so the parser recognizes it's a subdomain and doesn't put `www.` in front of it
+* If you don't want to append `www.` to the domain, put a `~` in front of the domain. This is required for subdomains like `assets.github.com`.
 
 You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls) with all these requirements.
 
