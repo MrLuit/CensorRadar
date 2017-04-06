@@ -61,6 +61,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "AnchorFree VPN",
+            "domain": "anchorfree.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Android",
             "domain": "android.com",
             "img": "favicon.ico"
@@ -73,6 +78,11 @@
         {
             "title": "Apple",
             "domain": "apple.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Ask",
+            "domain": "ask.com",
             "img": "favicon.ico"
         },
         {
@@ -166,6 +176,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Cryptome",
+            "domain": "cryptome.org",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Daily Mail",
             "domain": "dailymail.co.uk",
             "img": "favicon.ico"
@@ -196,6 +211,11 @@
             "img": "assets/07dca80a102d4149e9736d4b162cff6f.ico"
         },
         {
+            "title": "Disney",
+            "domain": "disney.com",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Disqus",
             "domain": "disqus.com",
             "img": "favicon.ico"
@@ -203,6 +223,11 @@
         {
             "title": "Dogecoin",
             "domain": "dogecoin.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "DuckDuckGo",
+            "domain": "duckduckgo.com",
             "img": "favicon.ico"
         },
         {
@@ -228,6 +253,11 @@
         {
             "title": "European Union",
             "domain": "europa.eu",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "ExpressVPN",
+            "domain": "expressvpn.com",
             "img": "favicon.ico"
         },
         {
@@ -376,6 +406,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "IpVanish VPN",
+            "domain": "ipvanish.com",
+            "img": "images/ip.ico"
+        },
+        {
             "title": "Issuu",
             "domain": "issuu.com",
             "img": "favicon.ico"
@@ -384,6 +419,11 @@
             "title": "Japanese Government",
             "domain": "japan.go.jp",
             "img": "_src/7795869/favicon.ico"
+        },
+        {
+            "title": "KeepSolid VPN",
+            "domain": "keepsolid.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Kickass Torrents",
@@ -566,6 +606,16 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Private Internet Access VPN",
+            "domain": "privateinternetaccess.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "PureVPN",
+            "domain": "purevpn.com",
+            "img": "public/images/favicon_final.ico"
+        },
+        {
             "title": "Pushbullet",
             "domain": "pushbullet.com",
             "img": "img/header/logo.png"
@@ -611,6 +661,11 @@
             "img": "etc/designs/smg/global/imgs/favicon.ico"
         },
         {
+            "title": "Schema.org",
+            "domain": "schema.org",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Skype",
             "domain": "skype.com",
             "img": "favicon.ico"
@@ -648,6 +703,11 @@
         {
             "title": "Spankbang",
             "domain": "spankbang.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Spotflux VPN",
+            "domain": "spotflux.com",
             "img": "favicon.ico"
         },
         {
@@ -711,6 +771,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "TorGuard VPN",
+            "domain": "torguard.net",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Tumblr",
             "domain": "tumblr.com",
             "img": "favicon.ico"
@@ -739,6 +804,11 @@
             "title": "US Government",
             "domain": "whitehouse.gov",
             "img": "apology_objects/favicons/favicon-16x16.png"
+        },
+        {
+            "title": "USA Today",
+            "domain": "usatoday.com",
+            "img": "favicon.ico"
         },
         {
             "title": "VK",
@@ -828,6 +898,11 @@
         {
             "title": "Yandex",
             "domain": "yandex.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Yelp",
+            "domain": "yelp.com",
             "img": "favicon.ico"
         },
         {
