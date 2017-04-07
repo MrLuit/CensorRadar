@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $.get("domains.json", function(data) {
         $(".scan").removeClass("disabled");
-		$(".infotext").html($(".infotext").html().replace("list of domains","list of <b>" + data.domains.length + "</b> domains"));
+        $(".infotext").html($(".infotext").html().replace("list of domains", "list of <b>" + data.domains.length + "</b> domains"));
         $(".scan").click(function() {
             var domains = data.domains;
             var faileddomains = {};
@@ -40,6 +40,18 @@ $(document).ready(function() {
                         new_row.hide();
                         $(".table tbody").prepend(new_row);
                         new_row.fadeIn(200);
+                        if ($(document.body).height() < $(window).height()) {
+                            $('.footer').css({
+                                position: 'absolute',
+                                top: ($(window).scrollTop() + $(window).height() -
+                                    $(".footer").height()) + "px",
+                                width: "100%"
+                            });
+                        } else {
+                            $('.footer').css({
+                                position: 'static'
+                            });
+                        }
                     })
                 };
 
