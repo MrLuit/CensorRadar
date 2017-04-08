@@ -1,3 +1,4 @@
+
 {
     "domains": [
         {
@@ -47,7 +48,7 @@
         },
         {
             "title": "Amazon AWS",
-            "domain": "aws.amazon.com",
+            "domain": "~aws.amazon.com",
             "img": "favicon.ico"
         },
         {
@@ -86,6 +87,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Australian Government",
+            "domain": "gov.au",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Baidu",
             "domain": "amazon.com",
             "img": "favicon.ico"
@@ -94,6 +100,11 @@
             "title": "BBC",
             "domain": "bbc.com",
             "img": "favicon.ico"
+        },
+        {
+            "title": "Belgium Government",
+            "domain": "belgium.be",
+            "img": "sites/all/themes/custom/belgium_theme/assets/images/favicons/favicon.png"
         },
         {
             "title": "Bing",
@@ -139,6 +150,11 @@
             "title": "Chinese Government",
             "domain": "gov.cn",
             "img": "govweb/xhtml/favicon.ico"
+        },
+        {
+            "title": "CIA",
+            "domain": "~cia.gov",
+            "img": "favicon.ico"
         },
         {
             "title": "Cisco",
@@ -261,8 +277,18 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Extra Torrent",
+            "domain": "extratorrent.cc",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Facepunch",
             "domain": "facepunch.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "FBI",
+            "domain": "fbi.gov",
             "img": "favicon.ico"
         },
         {
@@ -303,6 +329,11 @@
         {
             "title": "GitLab",
             "domain": "gitlab.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Gmail",
+            "domain": "~mail.google.com",
             "img": "favicon.ico"
         },
         {
@@ -413,6 +444,11 @@
         {
             "title": "Issuu",
             "domain": "issuu.com",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Italian Government",
+            "domain": "governo.it",
             "img": "favicon.ico"
         },
         {
@@ -576,6 +612,11 @@
             "img": "favicon.ico"
         },
         {
+            "title": "NSA",
+            "domain": "nsa.gov",
+            "img": "assets/img/icons/favicons/favicon.ico"
+        },
+        {
             "title": "NVidia",
             "domain": "nvidia.com",
             "img": "favicon.ico"
@@ -659,6 +700,11 @@
             "title": "Reddit",
             "domain": "redditstatic.com",
             "img": "icon.png"
+        },
+        {
+            "title": "RedTube",
+            "domain": "redtube.com",
+            "img": "favicon.ico"
         },
         {
             "title": "Reuters",
@@ -791,6 +837,21 @@
             "img": "favicon.ico"
         },
         {
+            "title": "Torrent Downloads",
+            "domain": "torrentdownloads.me",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Torrent Project",
+            "domain": "torrentproject.se",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Torrentz2",
+            "domain": "torrentz2.eu",
+            "img": "favicon.ico"
+        },
+        {
             "title": "Tumblr",
             "domain": "tumblr.com",
             "img": "favicon.ico"
@@ -813,6 +874,11 @@
         {
             "title": "UK Government",
             "domain": "gov.uk",
+            "img": "favicon.ico"
+        },
+        {
+            "title": "Urban Dictionary",
+            "domain": "urbandictionary.com",
             "img": "favicon.ico"
         },
         {
@@ -929,6 +995,11 @@
             "title": "Youtube URL Shortener",
             "domain": "~youtu.be",
             "img": "favicon.ico"
+        },
+        {
+            "title": "YTS Torrents",
+            "domain": "yts.ag",
+            "img": "assets/images/website/favicon.ico"
         }
     ]
 }
