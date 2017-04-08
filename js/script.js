@@ -40,18 +40,6 @@ $(document).ready(function() {
                         new_row.hide();
                         $(".table tbody").prepend(new_row);
                         new_row.fadeIn(200);
-                        if ($(".failedresults").height() < $(window).height()) {
-                            $('.footer').css({
-                                position: 'absolute',
-                                top: ($(window).scrollTop() + $(window).height() -
-                                    $(".footer").height()) + "px",
-                                width: "100%"
-                            });
-                        } else {
-                            $('.footer').css({
-                                position: 'static'
-                            });
-                        }
                     })
                 };
 
