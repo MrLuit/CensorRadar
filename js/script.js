@@ -1,4 +1,7 @@
 $(document).ready(function() {
+    if (navigator.appName == 'Microsoft Internet Explorer' || window.navigator.userAgent.indexOf("Edge") > -1 || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/)) || (typeof $.browser !== "undefined" && $.browser.msie == 1)) {
+        swal('Unsupported', 'Please note that IE and Edge are not supported', 'warning');
+    }
     $.get("domains.json", function(data) {
         $(".scan").removeClass("disabled");
         $(".infotext").html($(".infotext").html().replace("list of domains", "list of <b>" + data.domains.length + "</b> domains"));
