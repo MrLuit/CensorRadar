@@ -23,8 +23,9 @@ $(document).ready(function() {
                     }
                     if ((data.domain in doublecheck) && doublecheck[data.domain] < 4) {
                         doublecheck[data.domain]++;
+						var src = this.src
                         setTimeout(function() {
-                            image.src = this.src;
+                            image.src = src;
                         }, 1000);
                     } else if ((data.domain in doublecheck) && doublecheck[data.domain] > 3) {
                         cnt++;
