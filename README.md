@@ -43,7 +43,7 @@ When adding a new domain to domains.json, please follow this checklist:
 * Make sure the image provided is accessible from not only your computer. A favicon works best but if the server stores favicon on another server and doesn't automatically redirect just use another image URL from the website.
 * If you don't want to append `www.` to the domain, put a `~` in front of the domain. This is required for subdomains like `assets.github.com`.
 
-You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls) with all these requirements.
+You can then proceed to make a [pull request](https://github.com/MrLuit/CensorRadar/pulls).
 
 ## Report issue
 

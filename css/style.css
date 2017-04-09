@@ -1,6 +1,7 @@
 .ui.container.site {
     padding-top: 5%;
     text-align: center;
+	min-height: 85.2%;
 }
 .scanbutton {
     text-align: center;
@@ -43,8 +44,10 @@ noscript {
 	margin-top: 1%;
 }
 .ui.footer {
-    position: absolute;
-    bottom: 0;
+    position: relative;
+    clear: both;
+    height: 17px;
+    margin-top: -17px;
     width: 100%;
 	text-align: center;
 }
