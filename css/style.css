@@ -1,7 +1,7 @@
 .ui.container.site {
     padding-top: 5%;
     text-align: center;
-	min-height: 85.2%;
+	min-height: calc(100vh - 5vh - 5vh - 45px);
 }
 .scanbutton {
     text-align: center;
