@@ -1,17 +1,21 @@
 .ui.container.site {
     padding-top: 5%;
     text-align: center;
-	min-height: calc(100vh - 5vh - 5vh - 45px);
+	min-height: calc(100vh - 5vh - 5vh - 66px);
 }
 .scanbutton {
     text-align: center;
     padding-top: 5%;
     margin: auto;
 }
-.failedresults,.successresults,.loadingbar {
+.failedresults,.successresults {
     text-align: center;
     padding-top: 4%;
     display: none;
+}
+.loadingbar {
+	visibility: hidden;
+	padding-top: 4%;
 }
 .bar {
     transition-duration: 1000ms;

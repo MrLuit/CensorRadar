@@ -12,7 +12,7 @@ $(document).ready(function() {
             var cnt = 0;
             $(".count").html("0 / " + domains.length);
             $(".scanbutton").hide();
-            $(".loadingbar").show();
+            $(".loadingbar").css("visibility","visible");
             $.each(domains.reverse(), function(i, data) {
                 var image = new Image();
                 image.setAttribute("domain", data.domain.replace("~", ""));
@@ -21,16 +21,17 @@ $(document).ready(function() {
                     if (!(data.domain in doublecheck)) {
                         doublecheck[data.domain] = 1;
                     }
+					console.log(doublecheck[data.domain]);
                     if ((data.domain in doublecheck) && doublecheck[data.domain] < 4) {
                         doublecheck[data.domain]++;
-						var src = this.src
+                        var src = this.src
                         setTimeout(function() {
                             image.src = src;
                         }, 1000);
-                    } else if ((data.domain in doublecheck) && doublecheck[data.domain] > 3) {
+                    } else if ((data.domain in doublecheck) && doublecheck[data.domain] > 2) {
                         cnt++;
                         $(".count").html(cnt + " / " + domains.length);
-                        /* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. Source code: https://pastebin.com/bsGuBHxt */
+                        /* This is a server-side check to determine if a domain might be fully offline. The server just replies '1' or '0' depending if it can reach the domain. Keep in mind that CensorRadar will never rely on this backup server. It's just an extra feature for the end user. Source code: https://pastebin.com/raw/ydH1VNWc */
                         $.get("https://luithollander.nl/censorradar.php?url=" + encodeURIComponent(image.src), function(online) {
                             faileddomains[data.title] = parseInt(online);
                         }.bind(this)).fail(function() {
