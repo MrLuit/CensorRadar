@@ -50,8 +50,6 @@ noscript {
 .ui.footer {
     position: relative;
     clear: both;
-    height: 17px;
-    margin-top: -17px;
     width: 100%;
 	text-align: center;
 }
